@@ -145,6 +145,7 @@
 - [p2p](#p2p)
 - [package-manager](#package-manager)
 - [parsing](#parsing)
+- [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -218,6 +219,7 @@
 
 ## analytics 
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
@@ -280,7 +282,7 @@
 
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 
 ## atom 
@@ -506,6 +508,7 @@
 
 ## c 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [jedisct1/libsodium](https://github.com/jedisct1/libsodium) - A modern, portable, easy to use crypto library.
 - [cloudflare/lazyhtml](https://github.com/cloudflare/lazyhtml) - HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner
@@ -522,6 +525,7 @@
 
 ## chatgpt 
 
+- [Tungtono/awesome-gpt](https://github.com/Tungtono/awesome-gpt) - A curated list of awesome ChatGPT-related applications, software, tools, resources.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - Optimized UI for ChatGPT, DALL-E and Stable Diffusion.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
@@ -534,6 +538,7 @@
 
 ## chatgpt-api 
 
+- [Tungtono/awesome-gpt](https://github.com/Tungtono/awesome-gpt) - A curated list of awesome ChatGPT-related applications, software, tools, resources.
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
 ## chrome 
@@ -691,7 +696,7 @@
 
 ## cryptocurrency 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 
 ## csharp 
@@ -793,6 +798,7 @@
 
 ## deno 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
@@ -925,7 +931,7 @@
 - [mbeaudru/modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
@@ -933,7 +939,7 @@
 
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [tj-actions/eslint-changed-files](https://github.com/tj-actions/eslint-changed-files) - :octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 
@@ -946,13 +952,13 @@
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [frankhale/electron-with-express](https://github.com/frankhale/electron-with-express) - A simple app that demonstrates spawning an Express app from Electron
 
 ## finance 
 
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## firebase 
 
@@ -1091,7 +1097,7 @@
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
@@ -1131,7 +1137,7 @@
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu) - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - Open Source Webhooks Gateway; For both incoming & outgoing events.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
@@ -1192,6 +1198,7 @@
 
 ## hacktoberfest 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [kyhau/aws-tools](https://github.com/kyhau/aws-tools) - Some of my tools and sample code for building with AWS.
@@ -1225,7 +1232,7 @@
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
-- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Cusomization 💫
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
@@ -1241,7 +1248,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+- [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [crowdin/github-action](https://github.com/crowdin/github-action) - A GitHub action to manage and synchronize localization resources with your Crowdin project
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
@@ -1350,6 +1357,7 @@
 
 ## http 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [qustavo/httplab](https://github.com/qustavo/httplab) - The interactive web server
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
@@ -1397,6 +1405,7 @@
 
 ## javascript 
 
+- [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -1475,7 +1484,7 @@
 - [Rigellute/rigel](https://github.com/Rigellute/rigel) - 🌌 Colorscheme for vim, terminal, vscode and slack - based on the star Rigel ✨.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -1584,6 +1593,7 @@
 
 ## library 
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
 - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - A String Library made for Zig
 - [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
@@ -1606,7 +1616,7 @@
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Cusomization 💫
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [rxyhn/tokyo](https://github.com/rxyhn/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
@@ -1663,7 +1673,7 @@
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) - tabout plugin for neovim
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
-- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
+- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
 - [declancm/windex.nvim](https://github.com/declancm/windex.nvim) - 🧼 Clean window maximizing, terminal toggling, window/tmux pane movements and more!
@@ -1710,7 +1720,7 @@
 - [ZumingHuang/awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) - A collection of resources (including the papers and datasets) of OCR (Optical Character Recognition).
 - [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) - 
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert in 2022
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
@@ -1809,6 +1819,7 @@
 
 ## neovim 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -1826,7 +1837,7 @@
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) - Animation statusline, floating window statusline. Use lua + luv make some wind
-- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Cusomization 💫
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [Yazeed1s/oh-lucy.nvim](https://github.com/Yazeed1s/oh-lucy.nvim) - Inspired by oh-lucy theme in vscodium, with few tweaks!
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -1843,7 +1854,7 @@
 - [katawful/kat.nvim](https://github.com/katawful/kat.nvim) - NeoVim specifc port of kat.vim, a warm blue theme, written in Fennel with Aniseed
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) - 👓 A fast and lightweight Neovim lua plugin to keep an eye on where your cursor has jumped.
 - [disrupted/dotfiles](https://github.com/disrupted/dotfiles) - 👨🏻‍💻 My personal Neovim config entirely written in Lua (requires nightly), ZSH with zinit plugin manager & powerlevel10k prompt, and other dotfiles I am adding over time
-- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme template that is "lite" on logic for the developer.
+- [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) - A colorscheme generator that is "lite" on logic for the developer.
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) - Detects the language using treesitter and adds a comment block
 - [aserowy/tmux.nvim](https://github.com/aserowy/tmux.nvim) - tmux integration for nvim features pane movement and resizing from within nvim.
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) - Neovim as a TMUX replacement
@@ -1939,6 +1950,7 @@
 
 ## nlp 
 
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - A low-code Machine Learning platform to help developers build #AI solutions
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 
@@ -1968,6 +1980,7 @@
 
 ## nodejs 
 
+- [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 - [devtomio/sodium](https://github.com/devtomio/sodium) - Libsodium for Node.js
@@ -2018,7 +2031,7 @@
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
 - [auth0-samples/auth0-nodejs-webapp-sample](https://github.com/auth0-samples/auth0-nodejs-webapp-sample) - Auth0 Integration Samples for Node Web Applications
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
@@ -2037,7 +2050,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 
 ## numpy 
 
@@ -2074,6 +2087,10 @@
 
 ## others 
 
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
+- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - Aims to help you brainstorm and consistently compose useful threats with the time you have available.
+- [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
 - [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code and public issue backlog for @newrelic docs. We welcome feedback on the docs in GitHub issues!
@@ -2419,6 +2436,11 @@
 
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [OWASP/wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+
 ## php 
 
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -2476,7 +2498,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Anywhere.
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
@@ -2749,7 +2771,7 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find credentials all over the place
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform to sync secrets and configs across your team and infrastructure.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired fine-grained permissions database
@@ -2815,7 +2837,7 @@
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Cusomization 💫
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheet and resources
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
@@ -2869,6 +2891,7 @@
 
 ## statistics 
 
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
 
@@ -2981,7 +3004,7 @@
 - [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server) - A development and test oriented OAuth2 mock server
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2022)
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (April 2023)
 - [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 
@@ -3054,10 +3077,11 @@
 
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, rofi, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: wezterm; Desktop: sway, ulauncher, dunst; OS: ArchLinux (Ubuntu/Fedora/CentOS)
 
 ## vim 
 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.7+.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
