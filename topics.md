@@ -80,7 +80,6 @@
 - [frontend](#frontend)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
-- [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -216,6 +215,7 @@
 
 ## algorithm 
 
+- [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -543,7 +543,7 @@
 
 ## chatgpt 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT-4 powered coding in your terminal
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [Tungtono/awesome-gpt](https://github.com/Tungtono/awesome-gpt) - A curated list of awesome ChatGPT-related applications, software, tools, resources.
@@ -581,7 +581,7 @@
 
 ## cli 
 
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT-4 powered coding in your terminal
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
 - [metaory/simple-backup](https://github.com/metaory/simple-backup) - A :sparkles: very very simple ( under 30 LoC ) backup and restore tool written in pure Bash
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
@@ -672,6 +672,7 @@
 
 ## compiler 
 
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
@@ -866,7 +867,7 @@
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Love your cloud bill!
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker. We use it as an interactive cloud automation shell. It's the fastest way to get up and running with a rock solid Open Source toolchain.  ★ this repo! ht
 
@@ -1062,10 +1063,6 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [SpartanJ/eepp](https://github.com/SpartanJ/eepp) - eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces.
 
-## gh-extension 
-
-- [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
-
 ## git 
 
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -1108,7 +1105,7 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [mallowigi/mtslack](https://github.com/mallowigi/mtslack) - Customize your Slack experience with tweaks and themes. Includes the famous Material Themes as well as other popular themes such as Monokai Pro, Dracula, Atom One, GitHub, Solarized, Night Owl...
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [winterbe/github-matrix](https://github.com/winterbe/github-matrix) - The GitHub Matrix
 - [arslanbilal/git-cheat-sheet](https://github.com/arslanbilal/git-cheat-sheet) - :octocat: git and git flow cheat sheet
@@ -1121,6 +1118,7 @@
 
 ## go 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
@@ -1165,6 +1163,7 @@
 
 ## golang 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [redis/rueidis](https://github.com/redis/rueidis) - A fast Golang Redis client that supports Client Side Caching, Auto Pipelining, Generics OM, RedisJSON, RedisBloom, RediSearch, etc.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - Comprehensive Performance Testing Platform. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
@@ -1218,7 +1217,7 @@
 
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
@@ -1355,7 +1354,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [adonisjs/core](https://github.com/adonisjs/core) - 🚀 The Node.js Framework highly focused on developer ergonomics, stability and confidence
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
@@ -1453,6 +1452,7 @@
 
 ## javascript 
 
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -1484,7 +1484,7 @@
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full text search library for Browser and Node.js
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
@@ -1623,6 +1623,7 @@
 
 ## language 
 
+- [golang/go](https://github.com/golang/go) - The Go programming language
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.
 - [tc39/proposals](https://github.com/tc39/proposals) - Tracking ECMAScript Proposals
 - [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language
@@ -1656,6 +1657,7 @@
 
 ## linux 
 
+- [dimtpap/coppwr](https://github.com/dimtpap/coppwr) - Low level control GUI for the PipeWire multimedia server
 - [ValveSoftware/Dota-2](https://github.com/ValveSoftware/Dota-2) - Tracker for issues specific to Linux and Mac in the Reborn client. If you have a general issue or non-system-specific feature request please go to dev.dota2.com
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -1769,7 +1771,7 @@
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
 
 ## mac 
@@ -1860,7 +1862,7 @@
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 
 ## monitoring 
 
@@ -1888,7 +1890,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that needs no client-side software
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
@@ -1943,7 +1945,7 @@
 - [willothy/nvim-cokeline](https://github.com/willothy/nvim-cokeline) - :nose: A Neovim bufferline for people with addictive personalities
 - [rktjmp/highlight-current-n.nvim](https://github.com/rktjmp/highlight-current-n.nvim) - Highlights the current /, ? or * match under your cursor when pressing n or N and gets out of the way afterwards.
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -1991,7 +1993,7 @@
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) - A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 
 ## neural-network 
 
@@ -2011,7 +2013,7 @@
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
@@ -2141,6 +2143,7 @@
 
 ## open-source 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
@@ -2153,7 +2156,7 @@
 - [basarat/typescript-book](https://github.com/basarat/typescript-book) - :books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
@@ -2171,6 +2174,9 @@
 
 ## others 
 
+- [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
+- [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
+- [metaory/awesome-stars](https://github.com/metaory/awesome-stars) - 
 - [trickest/zip](https://github.com/trickest/zip) - Monitoring the internet for new .zip domains
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [ksylor/ohshitgit](https://github.com/ksylor/ohshitgit) - The official home of Oh Shit, Git!?!
@@ -2198,7 +2204,7 @@
 - [memorysafety/sudo-rs](https://github.com/memorysafety/sudo-rs) - A memory safe implementation of sudo and su.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
-- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - Aims to help you brainstorm and consistently compose useful threats with the time you have available.
+- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A tool to help humans to reduce time-to-value when performing threat modeling
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
 - [GhostNaN/mpvpaper](https://github.com/GhostNaN/mpvpaper) - A video wallpaper program for wlroots based wayland compositors.
@@ -2343,7 +2349,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.
 - [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [cmdr2/stable-diffusion-ui](https://github.com/cmdr2/stable-diffusion-ui) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
+- [easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion) - Easiest 1-click way to install and use Stable Diffusion on your computer. Provides a browser UI for generating images from text prompts and images. Just enter your text prompt, and see the generated i
 - [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections for d3-geo.
 - [pw4ever/awesome-wm-config](https://github.com/pw4ever/awesome-wm-config) - awesome window manager config with persistent dynamic tagging
 - [metaory/mxcolr-cli](https://github.com/metaory/mxcolr-cli) - :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
@@ -2557,14 +2563,13 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [remult/remult](https://github.com/remult/remult) - Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a cost-effective open-source alternative to Auth0. It offers a seamless developer experience and is well-suited for individuals and growing companies.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## powershell 
@@ -2674,7 +2679,7 @@
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
@@ -2730,7 +2735,7 @@
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [joaopcm/nodepad](https://github.com/joaopcm/nodepad) - Revolutionize your coding experience with Nodepad - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.getnodepad.com 🚀🌟
 - [tldraw/signia](https://github.com/tldraw/signia) - Reactive signals that scale, by tldraw.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
@@ -2774,6 +2779,8 @@
 
 ## rust 
 
+- [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Sub-second search & analytics engine on cloud storage
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
@@ -3026,7 +3033,7 @@
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database CI/CD for DevOps teams. https://www.bytebase.com
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database DevOps and CI/CD for teams. https://www.bytebase.com
 
 ## sql-server 
 
@@ -3048,6 +3055,7 @@
 
 ## svelte 
 
+- [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui) - yet another Svelte ui library
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
@@ -3166,6 +3174,7 @@
 
 ## typescript 
 
+- [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
@@ -3183,7 +3192,7 @@
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+- [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
@@ -3283,7 +3292,7 @@
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [felipec/vim-felipec](https://github.com/felipec/vim-felipec) - Vim color scheme: dark, bright, simple.
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
