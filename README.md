@@ -122,6 +122,7 @@
 
 ## CSS 
 
+- [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [aws-samples/cloudwatch-rum-demo](https://github.com/aws-samples/cloudwatch-rum-demo) - Amazon Cloudwatch RUM demo
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Proton - Blur Mod / For dark theme lovers / More compact / Modular
@@ -306,6 +307,10 @@
 
 ## JavaScript 
 
+- [get-alex/alex](https://github.com/get-alex/alex) - Catch insensitive, inconsiderate writing
+- [wooorm/readability](https://github.com/wooorm/readability) - visualise readability
+- [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
+- [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) - Advent of Code Solutions
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [conarti/eslint-plugin-fsd](https://github.com/conarti/eslint-plugin-fsd) - Feature sliced design eslint plugin
@@ -420,7 +425,6 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [boo1ean/casual](https://github.com/boo1ean/casual) - Fake data generator for javascript
 - [morsdyce/mimic](https://github.com/morsdyce/mimic) - Seamless client side mocking
-- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [apiaryio/dredd](https://github.com/apiaryio/dredd) - Language-agnostic HTTP API Testing Tool
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [stackvana/hook.io](https://github.com/stackvana/hook.io) - Open-Source Microservice Hosting Platform
@@ -704,6 +708,7 @@
 
 ## Others 
 
+- [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [metaory/awesome-stars](https://github.com/metaory/awesome-stars) - 
 - [trickest/zip](https://github.com/trickest/zip) - Monitoring the internet for new .zip domains
 - [tc39/proposal-symbols-as-weakmap-keys](https://github.com/tc39/proposal-symbols-as-weakmap-keys) - Permit Symbols as keys in WeakMaps, entries in WeakSets and WeakRefs, and registered in FinalizationRegistries
@@ -773,7 +778,7 @@
 - [okhosting/awesome-storage](https://github.com/okhosting/awesome-storage) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 - [ChanChiChoi/awesome-ocr](https://github.com/ChanChiChoi/awesome-ocr) - papers about ocr
 - [zacharywhitley/awesome-ocr](https://github.com/zacharywhitley/awesome-ocr) - 
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 - [vlang/awesome-v](https://github.com/vlang/awesome-v) - A curated list of awesome V frameworks, libraries, software and resources.
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -1144,6 +1149,7 @@
 
 ## TypeScript 
 
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first apps with end-to-end encrypted backup and sync using SQLite and CRDT
 - [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui) - yet another Svelte ui library
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
 - [radix-ui/colors](https://github.com/radix-ui/colors) - A gorgeous, accessible color system.
@@ -1152,7 +1158,7 @@
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
-- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A tool to help humans to reduce time-to-value when performing threat modeling
+- [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A threat modeling tool to help humans to reduce time-to-value when threat modeling
 - [usememos/memos](https://github.com/usememos/memos) - A lightweight, self-hosted memo hub. Open Source and Free forever.
 - [shadcn/ui](https://github.com/shadcn/ui) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
@@ -1202,7 +1208,7 @@
 - [aws/constructs](https://github.com/aws/constructs) - Define composable configuration models through code
 - [vercel/examples](https://github.com/vercel/examples) - Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 - [octokit/action.js](https://github.com/octokit/action.js) - GitHub API client for GitHub Actions
-- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [lokalise/node-service-template](https://github.com/lokalise/node-service-template) - Batteries-included starter template for Node.js backend services
 - [jeffijoe/awilix](https://github.com/jeffijoe/awilix) - Extremely powerful Inversion of Control (IoC) container for Node.JS
 - [ataylorme/eslint-annotate-action](https://github.com/ataylorme/eslint-annotate-action) - A GitHub action that takes ESLint results from a JSON file and adds them as annotated pull request comments
@@ -1278,6 +1284,7 @@
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
+- [serverless-stack/sst](https://github.com/serverless-stack/sst) - 💥 SST makes it easy to build full-stack serverless apps.
 - [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
