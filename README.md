@@ -29,6 +29,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MATLAB](#matlab)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Mustache](#mustache)
@@ -55,6 +56,7 @@
 - [Vim Script](#vim-script)
 - [Vue](#vue)
 - [Zig](#zig)
+- [jq](#jq)
 
 ## Assembly 
 
@@ -63,6 +65,7 @@
 
 ## C 
 
+- [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 - [notroj/neon](https://github.com/notroj/neon) - neon - an HTTP/1.1 and WebDAV client library with a C API
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -87,7 +90,6 @@
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
-- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 
 ## C# # 
 
@@ -311,7 +313,7 @@
 - [wooorm/readability](https://github.com/wooorm/readability) - visualise readability
 - [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 - [niksimon/advent-of-code](https://github.com/niksimon/advent-of-code) - Advent of Code Solutions
-- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
+- [stitchesjs/stitches](https://github.com/stitchesjs/stitches) - [Not Actively Maintained] CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience.
 - [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
 - [conarti/eslint-plugin-fsd](https://github.com/conarti/eslint-plugin-fsd) - Feature sliced design eslint plugin
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -321,7 +323,6 @@
 - [violentmonkey/violentmonkey](https://github.com/violentmonkey/violentmonkey) - Violentmonkey provides userscripts support for browsers. It works on browsers with WebExtensions support.
 - [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-- [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
@@ -409,6 +410,7 @@
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [arlac77/svelte-session-manager](https://github.com/arlac77/svelte-session-manager) - Session store for svelte (currently only for JWT)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [GabrielTenma/lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient) - LightDM-webkit Theme with modern style.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -527,6 +529,7 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [RutaTang/compter.nvim](https://github.com/RutaTang/compter.nvim) - Power and extend the ability of &lt;C-a&gt; and &lt;C-x&gt; with customized patterns.
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) - A simple Lua statusline for Neovim
@@ -672,6 +675,12 @@
 ## MATLAB 
 
 - [wme7/Aero-matlab](https://github.com/wme7/Aero-matlab) - My matlab homework files
+
+## MDX 
+
+- [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 
 ## Makefile 
 
@@ -833,6 +842,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [dwyl/english-words](https://github.com/dwyl/english-words) - :memo: A text file containing 479k English words for all your dictionary/word-based projects e.g: auto-completion / autosuggestion
 - [nuclia/nucliadb](https://github.com/nuclia/nucliadb) - NucliaDB, The vector database optimized for documents and video search
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is GPT powered coding in your terminal
@@ -847,7 +857,7 @@
 - [aws-samples/resource-tagging-automation](https://github.com/aws-samples/resource-tagging-automation) - A Lambda function for Resource Tagging Automation
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship AI powered projects to production in a fast and scalable way.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB is a Server for Artificial Intelligence Logic. Enabling developers to ship to production AI powered projects (from the latest LLMs, vector operations, state of the art time-series forecasting 
 - [aws-samples/amazon-guardduty-waf-acl](https://github.com/aws-samples/amazon-guardduty-waf-acl) - AWS GD2ACL
 - [aws-samples/aws-route53-weighted-alb-waf](https://github.com/aws-samples/aws-route53-weighted-alb-waf) - 
 - [aws-solutions/aws-waf-security-automations](https://github.com/aws-solutions/aws-waf-security-automations) - This solution automatically deploys a single web access control list (web ACL) with a set of AWS WAF rules designed to filter common web-based attacks.
@@ -856,7 +866,6 @@
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) - A collection of useful CloudFormation templates
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -892,6 +901,7 @@
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh (This is a fork from https://github.com/milkbikis/powerline-bash)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
@@ -916,6 +926,8 @@
 
 ## Rust 
 
+- [nuxeh/aocf](https://github.com/nuxeh/aocf) - A CLI tool (and also crate) for Advent of Code (https://adventofcode.com/)
+- [scarvalhojr/aoc-cli](https://github.com/scarvalhojr/aoc-cli) - Advent of Code command-line tool
 - [dimtpap/coppwr](https://github.com/dimtpap/coppwr) - Low level control GUI for the PipeWire multimedia server
 - [kaleidawave/ezno](https://github.com/kaleidawave/ezno) - A JavaScript compiler and TypeScript checker written in Rust with a focus on static analysis and runtime performance
 - [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
@@ -1015,7 +1027,6 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An Open Source Financial Switch to make Payments fast, reliable and affordable
 - [thedodd/trunk](https://github.com/thedodd/trunk) - Build, bundle & ship your Rust WASM application to the web.
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 - [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) - A Rust runtime for AWS Lambda
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -1149,6 +1160,9 @@
 
 ## TypeScript 
 
+- [canisminor1990/sd-webui-kitchen-theme](https://github.com/canisminor1990/sd-webui-kitchen-theme) - 🧿 Kitchen theme for stable diffusion webui
+- [typestack/routing-controllers](https://github.com/typestack/routing-controllers) - Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.
+- [typestack/class-transformer](https://github.com/typestack/class-transformer) - Decorator-based transformation, serialization, and deserialization between objects and classes.
 - [evoluhq/evolu](https://github.com/evoluhq/evolu) - React Hooks library for local-first apps with end-to-end encrypted backup and sync using SQLite and CRDT
 - [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui) - yet another Svelte ui library
 - [radix-ui/primitives](https://github.com/radix-ui/primitives) - Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.
@@ -1241,10 +1255,9 @@
 - [vercel/platforms](https://github.com/vercel/platforms) - A template for site builders and low-code tools.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [aws-samples/amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp) - An example for using Amazon Cognito together with an external IdP
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
@@ -1267,7 +1280,6 @@
 - [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB)
 - [rsbear/nvimluau](https://github.com/rsbear/nvimluau) - A list of Neovim plugins written in lua
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [Elderjs/elderjs](https://github.com/Elderjs/elderjs) - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [BishopFox/unredacter](https://github.com/BishopFox/unredacter) - Never ever ever use pixelation as a redaction technique
@@ -1376,6 +1388,10 @@
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+
+## jq 
+
+- [christianberg/advent](https://github.com/christianberg/advent) - Solving the Advent of Code puzzles in `jq`
 
 
 ## License
