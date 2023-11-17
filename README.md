@@ -67,6 +67,7 @@
 
 ## C 
 
+- [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [cococry/Ragnar](https://github.com/cococry/Ragnar) - Minimal, flexible & user-friendly X tiling window manager
@@ -328,6 +329,7 @@
 
 ## JavaScript 
 
+- [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [RishTheFish21/.files](https://github.com/RishTheFish21/.files) - My .files
 - [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
 - [metaory/uuidify](https://github.com/metaory/uuidify) - takes long string and return uuid format
@@ -467,7 +469,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [optimizely/javascript-sdk](https://github.com/optimizely/javascript-sdk) - JavaScript SDK for Optimizely Feature Experimentation and Optimizely Full Stack (legacy)
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
-- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio
+- [fonoster/fonoster](https://github.com/fonoster/fonoster) - 🚀 The open-source alternative to Twilio.
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
 - [tslide/tslide](https://github.com/tslide/tslide) - Terminal SlideDeck, supporting markdown.
@@ -481,7 +483,7 @@
 - [aws-samples/lambda-refarch-webapp](https://github.com/aws-samples/lambda-refarch-webapp) - The Web Application reference architecture is a general-purpose, event-driven, web application back-end that uses AWS Lambda, Amazon API Gateway for its business logic. It also uses Amazon DynamoDB as
 - [rcbj/oauth2-oidc-debugger](https://github.com/rcbj/oauth2-oidc-debugger) - An OAuth2 and OpenID Connect Debugger
 - [NoiSek/Aether](https://github.com/NoiSek/Aether) - A sleek ArchLinux login manager for lightdm-webkit. ( lightdm-webkit-theme-aether )
-- [aws-solutions/distributed-load-testing-on-aws](https://github.com/aws-solutions/distributed-load-testing-on-aws) - 
+- [aws-solutions/distributed-load-testing-on-aws](https://github.com/aws-solutions/distributed-load-testing-on-aws) - Distributed Load Testing on AWS
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
@@ -770,7 +772,6 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code) - A collection of awesome resources related to the yearly Advent of Code challenge.
 - [metaory/awesome-stars](https://github.com/metaory/awesome-stars) - 
-- [trickest/zip](https://github.com/trickest/zip) - Monitoring the internet for new .zip domains
 - [tc39/proposal-symbols-as-weakmap-keys](https://github.com/tc39/proposal-symbols-as-weakmap-keys) - Permit Symbols as keys in WeakMaps, entries in WeakSets and WeakRefs, and registered in FinalizationRegistries
 - [ValveSoftware/Dota-2](https://github.com/ValveSoftware/Dota-2) - Tracker for issues specific to Linux and Mac in the Reborn client. If you have a general issue or non-system-specific feature request please go to dev.dota2.com
 - [iCHAIT/awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -1319,7 +1320,7 @@
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
-- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
+- [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link management tool for modern marketing teams to create, share, and track short links.
 - [aws-samples/amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp) - An example for using Amazon Cognito together with an external IdP
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
