@@ -181,6 +181,7 @@
 - [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -215,7 +216,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
@@ -296,7 +297,7 @@
 
 ## artificial-intelligence 
 
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - MindsDB connects AI models to real time data
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
@@ -781,7 +782,7 @@
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur
 - [metaory/meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) - Vanilla JS Web Components Demo
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [SpartanJ/eepp](https://github.com/SpartanJ/eepp) - eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -1212,7 +1213,7 @@
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code
 - [flannel-io/flannel](https://github.com/flannel-io/flannel) - flannel is a network fabric for containers, designed for Kubernetes
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2023. with learning resources
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
@@ -1259,7 +1260,7 @@
 - [tierrun/tier](https://github.com/tierrun/tier) - The easiest way to add pricing to your SaaS. Get billing over with.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [inancgumus/learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 - [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based framework with network transparency. For creating event-driven architecture using technologies and design patterns of Erlang/OTP in Golang. Zero dependencies.
@@ -1388,13 +1389,12 @@
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibilty.
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas) - A Collection of application ideas which can be used to improve your coding skills.
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
-- [build-trust/ockam](https://github.com/build-trust/ockam) - Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
@@ -1402,7 +1402,7 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
@@ -1598,7 +1598,7 @@
 - [Asabeneh/30-Days-Of-React](https://github.com/Asabeneh/30-Days-Of-React) - 30 Days of  React challenge is a step by step guide to learn React in 30 days.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [getify/Functional-Light-JS](https://github.com/getify/Functional-Light-JS) - Pragmatic, balanced FP in JavaScript. @FLJSBook on twitter.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -1867,7 +1867,7 @@
 - [vicious-widgets/vicious](https://github.com/vicious-widgets/vicious) - Vicious is a modular widget library for the "awesome" window manager.
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
@@ -2091,7 +2091,7 @@
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) - Describe the regexp under the cursor
 - [slugbyte/unruly-worker](https://github.com/slugbyte/unruly-worker) - A ridiculously fun alternative nvim keymap for the workman keyboard layout
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) - User-friendly framework for building your dream tabline in a few lines of code.
 - [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) - :genie: Pluggable framework for using AI code assistance in Neovim
@@ -2180,7 +2180,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-stag
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -2534,7 +2534,7 @@
 - [fffaraz/awesome-github](https://github.com/fffaraz/awesome-github) - A curated list of awesome GitHub tools, libraries, resources, and shiny things.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
-- [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator) - The code used to create the Meese Enterprises logo
+- [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator) - The code used to create the Meese Enterprises logo.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [aws-samples/lambdaedge-openidconnect-samples](https://github.com/aws-samples/lambdaedge-openidconnect-samples) - 
@@ -2745,7 +2745,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -2788,7 +2788,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [featureform/featureform](https://github.com/featureform/featureform) - The Virtual Feature Store. Turn your existing data infrastructure into a feature store.
 - [kyhau/aws-tools](https://github.com/kyhau/aws-tools) - Some of my tools and sample code for building with AWS.
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
@@ -2865,7 +2865,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and UI kit made faster with an optimizing compiler.
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
@@ -2875,7 +2875,7 @@
 - [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer) - Simple React Component That Makes Titles More Readable
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 - [thiswallz/react-cyber-elements](https://github.com/thiswallz/react-cyber-elements) - Library with cyber punk icons / shapes.
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -3242,6 +3242,17 @@
 
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 
+## sqlite 
+
+- [evoluhq/evolu](https://github.com/evoluhq/evolu) - Local-first platform designed for privacy, ease of use, and no vendor lock-in to sync and backup precious data using SQLite and CRDT.
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+
 ## statistics 
 
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
@@ -3260,7 +3271,7 @@
 
 - [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui) - yet another Svelte ui library
 - [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
 - [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [Elderjs/elderjs](https://github.com/Elderjs/elderjs) - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
@@ -3417,14 +3428,14 @@
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [medplum/medplum](https://github.com/medplum/medplum) - Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.
 - [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
-- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [remult/remult](https://github.com/remult/remult) - Full-stack CRUD, simplified, with SSOT TypeScript entities
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Logto is a modern Auth0 alternative for building identity infrastructure with minimal effort, for both your customers and their organizations.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Every app needs authentication and authorization. Logto is the most scalable Auth0 alternative designed for apps of any size, any sector, and any platform.
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
