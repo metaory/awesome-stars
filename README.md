@@ -165,7 +165,7 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [zestdocs/zest](https://github.com/zestdocs/zest) - [UNMAINTAINED] Zest documentation browser
 
 ## CoffeeScript 
@@ -369,6 +369,8 @@
 
 ## JavaScript 
 
+- [nodejs/repl](https://github.com/nodejs/repl) - REPL rewrite for Node.js ✨🐢🚀✨
+- [metaory/chunk-largest-node](https://github.com/metaory/chunk-largest-node) - Depth First Search to Find and Chunk the largest node. Returning a list reduced inputs of ANY type, maintaining original structure
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
@@ -826,6 +828,7 @@
 
 ## Others 
 
+- [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [metaory/public](https://github.com/metaory/public) - 
 - [metaory/metaory](https://github.com/metaory/metaory) - metaory gh profile page
@@ -1072,6 +1075,7 @@
 
 ## Rust 
 
+- [tramhao/termusic](https://github.com/tramhao/termusic) - Music Player TUI written in Rust
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -1108,7 +1112,7 @@
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
 - [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter)
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1274,6 +1278,7 @@
 
 ## Shell 
 
+- [metaory/xico](https://github.com/metaory/xico) - make images from a character or a toml template
 - [metaory/xfind](https://github.com/metaory/xfind) - search with find, filter with fzf/sk, edit with editor, repeat
 - [metaory/xwatch](https://github.com/metaory/xwatch) - xwatch - execute a program on filesystem events
 - [metaory/slack-emoji-util](https://github.com/metaory/slack-emoji-util) - Slack emoji-API utility functions
@@ -1335,7 +1340,7 @@
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
 - [getsocial-rnd/neo4j-aws-ha-cluster](https://github.com/getsocial-rnd/neo4j-aws-ha-cluster) - Neo4j Enterprise HA Cluster on AWS ECS
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [zchee/Seti_JetBrains](https://github.com/zchee/Seti_JetBrains) - Seti_UI and Seti_UX themes port for JetBrains' all IDE
 
