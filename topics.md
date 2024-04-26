@@ -68,6 +68,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [english](#english)
 - [es6](#es6)
@@ -83,6 +84,7 @@
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [frontend](#frontend)
+- [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
 - [gamedev](#gamedev)
@@ -266,7 +268,7 @@
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [TheCodeMonks/Notzz-App](https://github.com/TheCodeMonks/Notzz-App) - 📝 A Simple Note-Taking App built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, State Flow, Hilt-Dependency Injection, Jetpack DataStore, Architecture Components, MV
 - [Spikeysanju/Einsen](https://github.com/Spikeysanju/Einsen) - 🎯 Einsen is a prioritization app that uses Eisenhower matrix technique as workflow to prioritize a list of tasks & built to Demonstrate use of Jetpack Compose with Modern Android Architecture Componen
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
@@ -364,6 +366,8 @@
 
 ## awesome 
 
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [fiatjaf/awesome-jq](https://github.com/fiatjaf/awesome-jq) - A curated list of awesome jq tools and resources.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
@@ -437,6 +441,7 @@
 
 ## awesome-list 
 
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
 - [mateusz-brainhub/awesome-cto-resources](https://github.com/mateusz-brainhub/awesome-cto-resources) - :bulb: A community-curated list of awesome resources to help you grow as a CTO
 - [kuchin/awesome-ceo](https://github.com/kuchin/awesome-ceo) - A curated and opinionated list of resources for startup founders and leaders of high-growth companies
@@ -578,7 +583,7 @@
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 - [testjavascript/nodejs-integration-tests-best-practices](https://github.com/testjavascript/nodejs-integration-tests-best-practices) - ✅  Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (March 2024)
@@ -586,6 +591,7 @@
 
 ## bash 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [wvanlint/twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -656,11 +662,11 @@
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [prikhi/lightdm-mini-greeter](https://github.com/prikhi/lightdm-mini-greeter) - A Minimal, Configurable, Single-User GTK3 LightDM Greeter
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [systemd/systemd](https://github.com/systemd/systemd) - The systemd System and Service Manager
 
 ## chatgpt 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise) - 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your deve
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
@@ -889,6 +895,7 @@
 
 ## css 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
@@ -1099,7 +1106,7 @@
 - [karser/gitbitlabhub](https://github.com/karser/gitbitlabhub) - Mirror Bitbucket / Gitlab / Github repositories using simple webhooks. Alpine based, pure bash
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [bregman-arie/devops-resources](https://github.com/bregman-arie/devops-resources) - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP
@@ -1152,6 +1159,11 @@
 
 - [WillPower3309/awesome-dotfiles](https://github.com/WillPower3309/awesome-dotfiles) - Dotfiles for awesome people using the awesomewm linux environment
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+
+## embedded 
+
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) - DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [embassy-rs/embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
 
 ## emoji 
 
@@ -1207,7 +1219,7 @@
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
 
 ## firefox 
@@ -1225,7 +1237,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - A Collection of Flutter and Dart Tips and Tricks
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) - E-Commerce App built in flutter
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
@@ -1282,6 +1294,10 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [morsdyce/mimic](https://github.com/morsdyce/mimic) - Seamless client side mocking
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+## game 
+
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 
 ## game-development 
 
@@ -1412,7 +1428,6 @@
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## godot 
 
@@ -1420,6 +1435,7 @@
 
 ## golang 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim
@@ -1462,7 +1478,6 @@
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [stelligent/mu](https://github.com/stelligent/mu) - A full-stack DevOps on AWS framework
 
 ## good-first-issue 
@@ -1574,7 +1589,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
@@ -1626,7 +1641,7 @@
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
@@ -1743,7 +1758,7 @@
 ## ios 
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for web, desktop, mobile, and more.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [Michael24884/TaiYaKiAnime](https://github.com/Michael24884/TaiYaKiAnime) - Stream anime and synchronize with your MyAnimeList(MAL) + SIMKL + Anilist on iOS and Android devices
@@ -1846,7 +1861,7 @@
 - [alangpierce/sucrase](https://github.com/alangpierce/sucrase) - Super-fast alternative to Babel for when you can target modern JS runtimes
 - [Elderjs/elderjs](https://github.com/Elderjs/elderjs) - Elder.js is an opinionated static site generator and web framework for Svelte built with SEO in mind.
 - [javascriptdata/danfojs](https://github.com/javascriptdata/danfojs) - Danfo.js is an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME. WE ARE LIVE ON KICKSTARTER! 👇👇👇
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -2026,6 +2041,7 @@
 
 ## linux 
 
+- [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [vv9k/epick](https://github.com/vv9k/epick) - Color picker for creating harmonic color palettes that works on Linux, Windows, macOS and web.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [ilius/pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any modern operating system / device.
@@ -2235,6 +2251,7 @@
 
 ## markdown 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [NayamAmarshe/writedown](https://github.com/NayamAmarshe/writedown) - ✏ writedown - Free and Open Source Markdown Diary. Public Blogs and Private Notes.
@@ -2472,6 +2489,7 @@
 
 ## nextjs 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [documenso/documenso](https://github.com/documenso/documenso) - The Open Source DocuSign Alternative.
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [JaleelB/callsquare](https://github.com/JaleelB/callsquare) - An open-source, feature-rich video conferencing application built with Next.js and 100ms. Offers seamless online meetings with functionalities like screen sharing, participant invites, call history, a
@@ -2495,7 +2513,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [sst/sst](https://github.com/sst/sst) - Build modern full-stack applications on AWS
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2609,7 +2627,7 @@
 ## nosql 
 
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, built for real-time streaming data, compatible with Neo4j.
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, tuned for dynamic analytics environments. Easy to adopt, scale and own.
 
 ## npm 
 
@@ -2662,7 +2680,6 @@
 
 - [SpartanJ/eepp](https://github.com/SpartanJ/eepp) - eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 
 ## osint 
 
@@ -2673,6 +2690,14 @@
 
 ## others 
 
+- [metaory/pcall.js](https://github.com/metaory/pcall.js) - 🔥 Protected function calls with superpowers ╺━╸ Lua pcall inspired
+- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
+- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [devcontainers/cli](https://github.com/devcontainers/cli) - A reference implementation for the specification that can create and configure a dev container from a devcontainer.json.
+- [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
+- [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
+- [v8/tools](https://github.com/v8/tools) - The tools folder, as seen in the V8 source code repository.
 - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - :art: Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 - [Melkeydev/astrostation](https://github.com/Melkeydev/astrostation) - 
 - [BuilderIO/framework-benchmarks](https://github.com/BuilderIO/framework-benchmarks) - Test each framework for it's performance cost
@@ -2808,7 +2833,7 @@
 - [tc39/proposal-decorators](https://github.com/tc39/proposal-decorators) - Decorators for ES6 classes
 - [TheLarkInn/js-parser-discussions](https://github.com/TheLarkInn/js-parser-discussions) - Discussions & Collaboration on a Unified/Base set of parser features for JavaScript
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
-- [antfu/bumpp](https://github.com/antfu/bumpp) - Interactive CLI that bumps your version numbers and more
+- [antfu-collective/bumpp](https://github.com/antfu-collective/bumpp) - Interactive CLI that bumps your version numbers and more
 - [antirez/linenoise](https://github.com/antirez/linenoise) - A small self-contained alternative to readline and libedit
 - [hoelzro/lua-repl](https://github.com/hoelzro/lua-repl) - A Lua REPL implemented in Lua for embedding in other programs
 - [aws-samples/cloudwatch-rum-demo](https://github.com/aws-samples/cloudwatch-rum-demo) - Amazon Cloudwatch RUM demo
@@ -3202,6 +3227,8 @@
 
 ## python 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
+- [learnbyexample/TUI-apps](https://github.com/learnbyexample/TUI-apps) - Terminal User Interface (TUI) apps
 - [ilius/pyglossary](https://github.com/ilius/pyglossary) - A tool for converting dictionary files aka glossaries. Mainly to help use our offline glossaries in any Open Source dictionary we like on any modern operating system / device.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [donnemartin/saws](https://github.com/donnemartin/saws) - A supercharged AWS command line interface (CLI).
@@ -3234,7 +3261,6 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [openrazer/openrazer](https://github.com/openrazer/openrazer) - Open source driver and user-space daemon to control Razer lighting and other features on GNU/Linux
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -3271,6 +3297,7 @@
 
 ## react 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
@@ -3322,7 +3349,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Discover resources created in an AWS account.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [CosmicNvim/CosmicNvim](https://github.com/CosmicNvim/CosmicNvim) - CosmicNvim is a lightweight and opinionated Neovim config for web development, specifically designed to provide a 💫 COSMIC programming experience!
@@ -3353,12 +3380,14 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [sudheerj/reactjs-interview-questions](https://github.com/sudheerj/reactjs-interview-questions) - List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 
 ## reactjs 
 
+- [aelew/devterms](https://github.com/aelew/devterms) - 📚 A crowdsourced dictionary for developers. Find definitions for all sorts of technical terms, programming jargon, and more!
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit for building accessible web apps with React
 - [joaopcm/nodepad](https://github.com/joaopcm/nodepad) - Revolutionize your coding experience with Nodepad - the all-in-one platform for creating, executing, and sharing Node.js code snippets! Join the coding revolution today at www.getnodepad.com 🚀🌟
@@ -3529,6 +3558,7 @@
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -3559,7 +3589,7 @@
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard.
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify credentials
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired permissions database to enable fine-grained access control for customer applications
@@ -3596,7 +3626,7 @@
 - [karser/gitbitlabhub](https://github.com/karser/gitbitlabhub) - Mirror Bitbucket / Gitlab / Github repositories using simple webhooks. Alpine based, pure bash
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [getsentry/self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -3635,7 +3665,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [tmobile/jazz](https://github.com/tmobile/jazz) - Platform to develop and manage serverless applications at an enterprise scale!
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 - [serverless/examples](https://github.com/serverless/examples) - Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework on AWS Lambda, Microsoft Azure, Google Cloud Functions, and more.
 - [serverless-heaven/serverless-webpack](https://github.com/serverless-heaven/serverless-webpack) - Serverless plugin to bundle your lambdas with Webpack
@@ -3774,7 +3804,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## swiftui 
 
@@ -3844,7 +3874,6 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [siduck/st](https://github.com/siduck/st) - snazzy terminal (suckless + beautiful)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
@@ -3989,6 +4018,7 @@
 
 ## vim 
 
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [wvanlint/twf](https://github.com/wvanlint/twf) - Standalone tree view file explorer, inspired by fzf.
@@ -4101,7 +4131,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [jenil/chota](https://github.com/jenil/chota) - A micro (3kb) CSS framework
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 
