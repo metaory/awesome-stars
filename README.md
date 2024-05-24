@@ -71,6 +71,7 @@
 
 ## C 
 
+- [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [DaveGamble/cJSON](https://github.com/DaveGamble/cJSON) - Ultralightweight JSON parser in ANSI C
 - [pulseaudio/pulseaudio](https://github.com/pulseaudio/pulseaudio) - Mirror of the PulseAudio sound server (for bug reports and pull requests go to the website!)
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
@@ -121,6 +122,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - :art: Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 - [intel/libvpl](https://github.com/intel/libvpl) - Intel® Video Processing Library (Intel® VPL) API, dispatcher, and examples
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -150,6 +152,7 @@
 
 ## CSS 
 
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
 - [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
@@ -216,6 +219,7 @@
 
 ## Go 
 
+- [rivo/tview](https://github.com/rivo/tview) - Terminal UI library with rich, interactive widgets — written in Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [benthosdev/benthos](https://github.com/benthosdev/benthos) - Fancy stream processing made operationally mundane
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
@@ -266,6 +270,7 @@
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
 - [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
+- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
@@ -334,7 +339,7 @@
 
 ## HTML 
 
-- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
+- [jxnblk/colorable](https://github.com/jxnblk/colorable) - Color combination contrast tester
 - [tc39/proposal-record-tuple](https://github.com/tc39/proposal-record-tuple) - ECMAScript proposal for the Record and Tuple value types. | Stage 2: it will change!
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
@@ -387,6 +392,11 @@
 
 ## JavaScript 
 
+- [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
+- [anubhavsrivastava/awesome-ui-component-library](https://github.com/anubhavsrivastava/awesome-ui-component-library) - Curated list of framework component libraries for UI styles/toolkit
+- [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉
+- [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [serverless/blog](https://github.com/serverless/blog) - serverless.com/blog – Posts from the Serverless community & core team. Contributions welcome!
 - [antonk52/lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
 - [metaory/pcall.js](https://github.com/metaory/pcall.js) - 🛟 Handle Errors as Values · 📦 Zero-dependency
@@ -443,7 +453,6 @@
 - [alexcasalboni/aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning) - AWS Lambda Power Tuning is an open-source tool that can help you visualize and fine-tune the memory/power configuration of Lambda functions. It runs in your own AWS account - powered by AWS Step Funct
 - [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 - [Netflix/vizceral](https://github.com/Netflix/vizceral) - WebGL visualization for displaying animated traffic graphs
-- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [acornjs/acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
 - [eslint/espree](https://github.com/eslint/espree) - An Esprima-compatible JavaScript parser
 - [GrantBirki/json-yaml-validate](https://github.com/GrantBirki/json-yaml-validate) - A GitHub Action to quickly validate JSON and YAML files in a repository
@@ -807,7 +816,6 @@
 - [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-- [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 
 ## Makefile 
 
@@ -854,6 +862,16 @@
 
 ## Others 
 
+- [mileszim/awesome-vector-database](https://github.com/mileszim/awesome-vector-database) - Awesome List of Vector DB resources
+- [tursodatabase/awesome-turso](https://github.com/tursodatabase/awesome-turso) - Awesome list about everything related to Turso.
+- [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs) - :notebook_with_decorative_cover: :books: A curated list of awesome resources : books, videos, articles about using Next.js (A minimalistic framework for universal server-rendered React applications)
+- [kevindeasis/awesome-ui](https://github.com/kevindeasis/awesome-ui) - An "Awesome" curated list but for design (UI & UX) resources. Contains theory, tutorials, books, libraries, and other resources
+- [arainho/awesome-api-security](https://github.com/arainho/awesome-api-security) - A collection of awesome API Security tools and resources. The focus goes to open-source tools and resources that benefit all the community.
+- [Kikobeats/awesome-api](https://github.com/Kikobeats/awesome-api) - A curated list of awesome resources for design and implement RESTful API's.
+- [danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons) - Tiny style-controlled SVG iconset (101 icons, 12kb)
+- [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
+- [metaory/error-to](https://github.com/metaory/error-to) - minimal error parser and transformer
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
@@ -1028,6 +1046,7 @@
 - [kyhau/aws-tools](https://github.com/kyhau/aws-tools) - Some of my tools and sample code for building with AWS.
 - [aws-samples/serverless-patterns](https://github.com/aws-samples/serverless-patterns) - Serverless patterns. Learn more at the website: https://serverlessland.com/patterns.
 - [aws-samples/aws-cudos-framework-deployment](https://github.com/aws-samples/aws-cudos-framework-deployment) - Command Line Interface tool for Cloud Intelligence Dashboards deployment
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - ✨ Build AI interfaces that spark joy
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [aws-samples/resource-tagging-automation](https://github.com/aws-samples/resource-tagging-automation) - A Lambda function for Resource Tagging Automation
@@ -1053,7 +1072,7 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [s0md3v/XSStrike](https://github.com/s0md3v/XSStrike) - Most advanced XSS scanner.
 - [nchah/github-traffic-stats](https://github.com/nchah/github-traffic-stats) - Get statistics on web traffic to your GitHub repositories.
 - [nccgroup/aws-inventory](https://github.com/nccgroup/aws-inventory) - Discover resources created in an AWS account.
@@ -1106,6 +1125,7 @@
 
 ## Rust 
 
+- [neon-bindings/neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
 - [euclio/mdpls](https://github.com/euclio/mdpls) - Markdown Preview Language Server
 - [actix/actix](https://github.com/actix/actix) - Actor framework for Rust.
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
@@ -1311,10 +1331,11 @@
 
 ## Shell 
 
+- [batoreh/awesome-ux](https://github.com/batoreh/awesome-ux) - a awesome list about User Experience disciplines
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
-- [metaory/xico](https://github.com/metaory/xico) - 👻 xico - make images from unicode characters
+- [metaory/xico](https://github.com/metaory/xico) - 👻 xico - make icon from character or unicode glyph
 - [metaory/xfind](https://github.com/metaory/xfind) - search with find, filter with fzf/sk, edit with editor, repeat
 - [metaory/xwatch](https://github.com/metaory/xwatch) - xwatch - execute a program on filesystem events
 - [metaory/slack-emoji-util](https://github.com/metaory/slack-emoji-util) - Slack emoji-API utility functions
@@ -1396,10 +1417,15 @@
 
 ## TypeScript 
 
+- [instantcommerce/next-api-decorators](https://github.com/instantcommerce/next-api-decorators) - Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
+- [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage) - A tool to beautify your code screenshots. Built with SolidJS and Fastify.
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
+- [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
 - [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [arethetypeswrong/arethetypeswrong.github.io](https://github.com/arethetypeswrong/arethetypeswrong.github.io) - Tool for analyzing TypeScript types of npm packages
 - [unjs/automd](https://github.com/unjs/automd) - 🤖 Automated markdown maintainer
@@ -1519,7 +1545,7 @@
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
@@ -1597,7 +1623,7 @@
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2800+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
@@ -1666,6 +1692,7 @@
 
 ## Vue 
 
+- [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
