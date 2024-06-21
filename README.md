@@ -267,7 +267,7 @@
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [cue-lang/cue](https://github.com/cue-lang/cue) - The home of the CUE language! Validate and define text-based and dynamic configuration
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [multycloud/multy](https://github.com/multycloud/multy) - Multy - Easily deploy multi cloud infrastructure. Write cloud-agnostic config deployed across multiple clouds
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
@@ -393,6 +393,8 @@
 
 ## JavaScript 
 
+- [metaory/mini-ansi](https://github.com/metaory/mini-ansi) - 🎨 Minimal ANSI color escape utility in under 10 line!
+- [Hopding/js-visualizer-9000-client](https://github.com/Hopding/js-visualizer-9000-client) - A React app to interactively visualize JavaScript's Event Loop
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox) - 📦 Workbox: JavaScript libraries for Progressive Web Apps
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit) - A JavaScript PDF generation library for Node and the browser
@@ -404,7 +406,7 @@
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [serverless/blog](https://github.com/serverless/blog) - serverless.com/blog – Posts from the Serverless community & core team. Contributions welcome!
 - [antonk52/lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
-- [metaory/pcall.js](https://github.com/metaory/pcall.js) - ✱ Minimal Result/Monad like tuples for JS ── zero-dependency ␥
+- [metaory/pcall.js](https://github.com/metaory/pcall.js) - ✱ Minimal Result/Monad like tuples for JS ── zero-dependency
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [nodejs/repl](https://github.com/nodejs/repl) - REPL rewrite for Node.js ✨🐢🚀✨
@@ -769,7 +771,7 @@
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) - Rearrange your windows with ease.
 - [material-shell/material-awesome](https://github.com/material-shell/material-awesome) - Material and Mouse driven config for AwesomeWM 4.3
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Escape from insert mode without delay when typing
-- [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
+- [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for modern Neovim.
 - [LunarVim/Colorschemes](https://github.com/LunarVim/Colorschemes) - 🌈 Collection of colorschemes made to be compatible with LunarVim
 - [mnabila/nvimrc](https://github.com/mnabila/nvimrc) - vimrc for neovim written in lua
 - [monsonjeremy/onedark.nvim](https://github.com/monsonjeremy/onedark.nvim) - OneDark NeoVim theme written in Lua
@@ -870,6 +872,9 @@
 
 ## Others 
 
+- [moimikey/awesome-devtools](https://github.com/moimikey/awesome-devtools) - 🤖 A curated list of in-browser bookmarklets, tools, and resources for modern full-stack software engineers.
+- [dhyeythumar/awesome-readme-tools](https://github.com/dhyeythumar/awesome-readme-tools) - A curated list of awesome readme tools. ✌
+- [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [errilaz/awesome-js-runtimes](https://github.com/errilaz/awesome-js-runtimes) - A curated list of JavaScript/ECMAScript runtimes, app frameworks, and engines.
 - [lispunion/glossary](https://github.com/lispunion/glossary) - Dictionary of Lisp slang and other terminology
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1066,7 +1071,7 @@
 - [aws-samples/resource-tagging-automation](https://github.com/aws-samples/resource-tagging-automation) - A Lambda function for Resource Tagging Automation
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
 - [aws-samples/amazon-guardduty-waf-acl](https://github.com/aws-samples/amazon-guardduty-waf-acl) - AWS GD2ACL
 - [aws-samples/aws-route53-weighted-alb-waf](https://github.com/aws-samples/aws-route53-weighted-alb-waf) - 
 - [aws-solutions/aws-waf-security-automations](https://github.com/aws-solutions/aws-waf-security-automations) - This solution automatically deploys a single web access control list (web ACL) with a set of AWS WAF rules designed to filter common web-based attacks.
@@ -1138,6 +1143,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree) - A modern, cross-platform, multi-threaded, and general purpose filesystem and disk-usage utility that is aware of .gitignore and hidden file rules.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
@@ -1348,13 +1354,14 @@
 
 ## Shell 
 
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [batoreh/awesome-ux](https://github.com/batoreh/awesome-ux) - a awesome list about User Experience disciplines
 - [shospodarets/awesome-platform-engineering](https://github.com/shospodarets/awesome-platform-engineering) - Curated list of tools and resources for Platform Engineering
 - [devcontainers/templates](https://github.com/devcontainers/templates) - Repository for Dev Container Templates that are managed by Dev Container spec maintainers. See https://github.com/devcontainers/template-starter to create your own!
 - [sparanoid/automator-workflows](https://github.com/sparanoid/automator-workflows) - A collection of Automator workflows (services) that speed up your design / development process. Compatible with LaunchBar 6 actions
 - [metaory/xico](https://github.com/metaory/xico) - ⪽⪾ simple cli to make png images from any Unicode glyph character 𐓷
-- [metaory/xfind](https://github.com/metaory/xfind) - search with find, filter with fzf/sk, edit with editor, repeat
+- [metaory/xfind](https://github.com/metaory/xfind) - ·· ❯ Find F|D  +[FIND] ⸖ Filter +[SK|FZF] » Preview +[CHROMA|BAT|CAT] › Edit +[$EDITOR] ❯ Repeat  ⮔  ··
 - [metaory/xwatch](https://github.com/metaory/xwatch) - xwatch - execute a program on filesystem events
 - [metaory/slack-emoji-util](https://github.com/metaory/slack-emoji-util) - Slack emoji-API utility functions
 - [metaory/hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) - HEX OCD Colorscheme
@@ -1562,7 +1569,7 @@
 - [ataylorme/eslint-annotate-action](https://github.com/ataylorme/eslint-annotate-action) - A GitHub action that takes ESLint results from a JSON file and adds them as annotated pull request comments
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone.
 - [temporalio/samples-typescript](https://github.com/temporalio/samples-typescript) - 
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
