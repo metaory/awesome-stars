@@ -144,7 +144,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [peregrine-lang/Peregrine](https://github.com/peregrine-lang/Peregrine) - A blazing fast language for the blazing fast world(WIP)
+- [SaptakBhoumik/Peregrine](https://github.com/SaptakBhoumik/Peregrine) - A blazing fast language for the blazing fast world(WIP)
 - [mgeeky/ThreadStackSpoofer](https://github.com/mgeeky/ThreadStackSpoofer) - Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -283,7 +283,7 @@
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
 - [openfga/openfga](https://github.com/openfga/openfga) - A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find and verify secrets
+- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
@@ -617,7 +617,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A modern web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [Reckon-Limited/containerless](https://github.com/Reckon-Limited/containerless) - Serverless plugin for configuring ECS deployment
 - [johnagan/serverless-slackbot](https://github.com/johnagan/serverless-slackbot) - A boilerplate Serverless Slackbot framework with a custom scripts folder (like Hubot)
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
@@ -899,6 +899,7 @@
 
 ## Others 
 
+- [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
@@ -1402,6 +1403,7 @@
 
 ## Shell 
 
+- [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [metaory/fc-dump](https://github.com/metaory/fc-dump) - 🔥 dump all literal characters of all code-points of one or all uniq fonts
 - [metaory/xsyn](https://github.com/metaory/xsyn) - 📑 get similar words with fix length
@@ -1414,7 +1416,7 @@
 - [metaory/xfind](https://github.com/metaory/xfind) - Find (F/D)  ❯  Filter (SK/FZF)  ❯  Preview(CHROMA/BAT/CAT] ❯  Edit($EDITOR) ❯ Repeat  ⮔
 - [metaory/xwatch](https://github.com/metaory/xwatch) - xwatch - execute a program on filesystem events
 - [metaory/slack-emoji-util](https://github.com/metaory/slack-emoji-util) - Slack emoji-API utility functions
-- [metaory/hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) - HEX OCD Colorscheme
+- [metaory/hexocd-colorscheme](https://github.com/metaory/hexocd-colorscheme) - An OCD handwritten Colorscheme
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [metaory/mdict-cli](https://github.com/metaory/mdict-cli) - [check project xsyn] 💀 Dead Simple Interface for Definition / Synonym / Antonyms / Usage with Zero-dependency
@@ -1435,7 +1437,7 @@
 - [shelfio/aws-lambda-tesseract](https://github.com/shelfio/aws-lambda-tesseract) - 6 MB Tesseract (with English training data) to fit inside AWS Lambda
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [shadlyd15/DoomLinux](https://github.com/shadlyd15/DoomLinux) - A bash script to build a minimal linux operating system just to play Doom.
-- [metaory/midjourney](https://github.com/metaory/midjourney) - Collection of midjourney wallpapers
+- [metaory/midjourney](https://github.com/metaory/midjourney) - Collection of Midjourney wallpapers
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
 - [vinceliuice/Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - Vimix-cursors for linux desktop
 - [tj-actions/eslint-changed-files](https://github.com/tj-actions/eslint-changed-files) - :octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.
@@ -1542,7 +1544,7 @@
 - [sadoprotocol/ordit](https://github.com/sadoprotocol/ordit) - Ordit Indexer, Parser, and API for Ordinals and Inscriptions.
 - [fabian-hiller/valibot](https://github.com/fabian-hiller/valibot) - The modular and type safe schema library for validating structural data 🤖
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js) - Reactivity without the framework
 - [firebase/quickstart-js](https://github.com/firebase/quickstart-js) - Firebase Quickstart Samples for Web
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
@@ -1775,7 +1777,7 @@
 - [Moosync/Moosync](https://github.com/Moosync/Moosync) - Music player capable of playing local audio or from Youtube, Spotify and many more
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
-- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！
+- [vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin) - A modern vue admin. It is based on Vue3、Shadcn UI、vite and TypeScript. It's fast！
 - [ouropencode/OpenDocumenter](https://github.com/ouropencode/OpenDocumenter) - OpenDocumenter is a automatic documentation generator for OpenAPI v3 schemas. Simply provide your schema file in JSON or YAML, then sit back and enjoy the documentation.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
 
