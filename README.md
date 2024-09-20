@@ -410,12 +410,13 @@
 
 ## JavaScript 
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [bukinoshita/hash-avatar](https://github.com/bukinoshita/hash-avatar) - :rainbow: Hash avatar algorithm
 - [dkzlv/simple-hue-picker](https://github.com/dkzlv/simple-hue-picker) - 🎨 Tiny Hue picker for any framework!
 - [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website) - The website for Simple Icons: SVG icons for popular brands
 - [metaory/github-open-stats](https://github.com/metaory/github-open-stats) - GitHub Stats on Edge 🚧 Early greenfield experiment -- Hono on Cloudflare Workers 🧬
 - [metaory/metaory.github.io](https://github.com/metaory/metaory.github.io) - 
-- [metaory/markup.json](https://github.com/metaory/markup.json) - DOM tree representation in compact JSON -- Draft Spec, Library and CLI
+- [metaory/markup.json](https://github.com/metaory/markup.json) - DOM Markup Abstract Syntax Tree representation in compact JSON ╼╾ Specification, Transformer Library and CLI
 - [metaory/meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) - Zero Dependency Node Server Challenge
 - [koddsson/jsonresume](https://github.com/koddsson/jsonresume) - 📄 A simple service that inputs JSON and outputs simple HTML resumes
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -447,7 +448,6 @@
 - [Kyutefox/Iconify](https://github.com/Kyutefox/Iconify) - Upgrade your designs with our browser extension! Download premium SVG icons and stickers from Flaticon, Icons8, and Iconscout hassle-free. No more costly subscriptions.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
-- [miroslavpejic85/mirotalk](https://github.com/miroslavpejic85/mirotalk) - 🚀 WebRTC - P2P - Simple, Secure, Fast Real-Time Video Conferences Up to 8k and 60fps, compatible with all browsers and platforms.
 - [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -909,6 +909,7 @@
 
 ## Others 
 
+- [sethvincent/awesome-virtual-dom](https://github.com/sethvincent/awesome-virtual-dom) - Modules & resources related to the virtual-dom module.
 - [web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources.
 - [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
@@ -1500,7 +1501,7 @@
 - [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
 - [getsocial-rnd/neo4j-aws-ha-cluster](https://github.com/getsocial-rnd/neo4j-aws-ha-cluster) - Neo4j Enterprise HA Cluster on AWS ECS
 - [cloudposse/geodesic](https://github.com/cloudposse/geodesic) - 🚀 Geodesic is a DevOps Linux Toolbox in Docker
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
 - [zchee/Seti_JetBrains](https://github.com/zchee/Seti_JetBrains) - Seti_UI and Seti_UX themes port for JetBrains' all IDE
 
@@ -1597,7 +1598,7 @@
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [aws-observability/observability-best-practices](https://github.com/aws-observability/observability-best-practices) - Observability best practices on AWS
 - [open-telemetry/opentelemetry-js-contrib](https://github.com/open-telemetry/opentelemetry-js-contrib) - OpenTelemetry instrumentation for JavaScript modules
 - [getlift/lift](https://github.com/getlift/lift) - Expanding Serverless Framework beyond functions using the AWS CDK
@@ -1723,7 +1724,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
-- [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+- [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [sst/sst](https://github.com/sst/sst) - SST v2
