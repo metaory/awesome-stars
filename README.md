@@ -6,6 +6,7 @@
 ## Contents
 
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [Bikeshed](#bikeshed)
 - [C](#c)
 - [C++](#c++)
@@ -75,6 +76,10 @@
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
+## Astro 
+
+- [opensourcepledge/opensourcepledge.com](https://github.com/opensourcepledge/opensourcepledge.com) - We all depend on Open Source. Pay the maintainers by joining the Open Source Pledge.
+
 ## Bikeshed 
 
 - [WICG/observable](https://github.com/WICG/observable) - Observable API proposal
@@ -128,6 +133,7 @@
 
 ## C++ 
 
+- [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - :art: Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
@@ -233,6 +239,10 @@
 
 ## Go 
 
+- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
+- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [guptarohit/asciigraph](https://github.com/guptarohit/asciigraph) - Go package to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️
@@ -334,7 +344,7 @@
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [tmrts/go-patterns](https://github.com/tmrts/go-patterns) - Curated list of Go design patterns, recipes and idioms
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevSecOps. World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [earthly/earthly](https://github.com/earthly/earthly) - Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby.
 - [nikolaydubina/go-recipes](https://github.com/nikolaydubina/go-recipes) - 🦩 Tools for Go projects
@@ -416,6 +426,8 @@
 
 ## JavaScript 
 
+- [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
+- [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [metaory/junk-activity-scanner](https://github.com/metaory/junk-activity-scanner) - An automated tool that scans and reports bot-generated junk repositories to combat inauthentic activity
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [bukinoshita/hash-avatar](https://github.com/bukinoshita/hash-avatar) - :rainbow: Hash avatar algorithm
@@ -737,7 +749,7 @@
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [gvvaughan/lyaml](https://github.com/gvvaughan/lyaml) - LibYAML binding for Lua.
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) - Some color utils for neovim
-- [raexera/yoru](https://github.com/raexera/yoru) - 夜 - Yoru | Aesthetic and Beautiful Awesome  Environment :first_quarter_moon:
+- [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [kosorin/awesome-rice](https://github.com/kosorin/awesome-rice) - Opinionated config for Awesome window manager.
 - [folke/neodev.nvim](https://github.com/folke/neodev.nvim) - 💻  Neovim setup for init.lua and plugin development with full signature help, docs and completion for the nvim lua API.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
@@ -855,6 +867,7 @@
 
 ## MDX 
 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
@@ -862,6 +875,7 @@
 
 ## Makefile 
 
+- [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
 - [counteractive/incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template) - A concise, directive, specific, flexible, and free incident response plan template
 
@@ -912,6 +926,8 @@
 
 ## Others 
 
+- [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
+- [metaory/hiring-exercise-template](https://github.com/metaory/hiring-exercise-template) - Hiring exercise template
 - [sethvincent/awesome-virtual-dom](https://github.com/sethvincent/awesome-virtual-dom) - Modules & resources related to the virtual-dom module.
 - [web-padawan/awesome-web-components](https://github.com/web-padawan/awesome-web-components) - A curated list of awesome Web Components resources.
 - [dalisoft/awesome-storage](https://github.com/dalisoft/awesome-storage) - List of awesome cloud storage providers for individuals and family sorted by minimal plan price
@@ -1102,6 +1118,8 @@
 
 ## Python 
 
+- [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
+- [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 - [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML and LLM
@@ -1236,7 +1254,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications
-- [Byron/gitoxide](https://github.com/Byron/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Totodore/socketioxide](https://github.com/Totodore/socketioxide) - A socket.io server implementation in Rust that integrates with the Tower ecosystem and the Tokio stack.
@@ -1437,7 +1455,7 @@
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [doctorfree/Asciiville](https://github.com/doctorfree/Asciiville) - ASCII Art, Animation, and Utilities
 - [metaory/fc-dump](https://github.com/metaory/fc-dump) - 🔥 dump all literal characters of all code-points of one or all uniq fonts
-- [metaory/xsyn](https://github.com/metaory/xsyn) - 📑 get similar words with fix length
+- [metaory/xsyn](https://github.com/metaory/xsyn) - 📑 dead simple word suggestion CLI
 - [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 - [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
 - [batoreh/awesome-ux](https://github.com/batoreh/awesome-ux) - a awesome list about User Experience disciplines
@@ -1472,7 +1490,7 @@
 - [vinceliuice/Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - Vimix-cursors for linux desktop
 - [tj-actions/eslint-changed-files](https://github.com/tj-actions/eslint-changed-files) - :octocat: Github action to run ESLint on changed pull request files with support for reporting errors via Github checks.
 - [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles) - An organizational repository for my dotfiles and scripts
-- [raexera/tokyo](https://github.com/raexera/tokyo) - BSPWM - Aesthetic Dotfiles 🍚
+- [raexera/tokyo](https://github.com/raexera/tokyo) - BSPWM
 - [zoddDev/dotfiles](https://github.com/zoddDev/dotfiles) - My bspwm dotfiles. Get whatever you need! :)
 - [aquasecurity/trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 - [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
@@ -1821,7 +1839,7 @@
 
 ## XC 
 
-- [metaory/xico](https://github.com/metaory/xico) - ⪽⪾ simple cli to make png images from any Unicode glyph character 𐓷
+- [metaory/xico](https://github.com/metaory/xico) - 𐆖𖭐ꛕ𐊔 --  simple cli to make png images from any Unicode glyph character 𐓷
 - [metaory/public](https://github.com/metaory/public) - 
 
 ## Zig 
