@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [DiceDB/dice](https://github.com/DiceDB/dice) - DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.
 - [JFryy/qq](https://github.com/JFryy/qq) - jq inspired (and gojq dependent) interoperable config format transcoder with interactive querying.
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
@@ -278,7 +279,7 @@
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
-- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
+- [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
 - [open-telemetry/opentelemetry-lambda](https://github.com/open-telemetry/opentelemetry-lambda) - Create your own Lambda Layer in each OTel language using this starter code. Add the Lambda Layer to your Lamdba Function to get tracing with OpenTelemetry.
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
@@ -426,6 +427,8 @@
 
 ## JavaScript 
 
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
+- [WebSVG/voronoi](https://github.com/WebSVG/voronoi) - Parametric Voronoi generator with real time editing and SVG export
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
 - [metaory/junk-activity-scanner](https://github.com/metaory/junk-activity-scanner) - An automated tool that scans and reports bot-generated junk repositories to combat inauthentic activity
@@ -459,6 +462,7 @@
 - [nksaraf/vinxi](https://github.com/nksaraf/vinxi) - The Full Stack JavaScript SDK
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
+- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [prettier/eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) - Turns off all rules that are unnecessary or might conflict with Prettier.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [pablof7z/nostr-chat-widget](https://github.com/pablof7z/nostr-chat-widget) - Nostr-based embeddable chat widget
@@ -535,7 +539,7 @@
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [actions/reusable-workflows](https://github.com/actions/reusable-workflows) - Reusable workflows for developing actions
 - [ehmicky/template-javascript](https://github.com/ehmicky/template-javascript) - JavaScript library template
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5700 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [blend/require-conditional-status-checks](https://github.com/blend/require-conditional-status-checks) - GitHub Action: Compose multiple (conditional) checks into a single check based on file paths in a pull request
 - [bukinoshita/random-gradient](https://github.com/bukinoshita/random-gradient) - Generate beautiful random gradients
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -582,7 +586,7 @@
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings
 - [arlac77/svelte-session-manager](https://github.com/arlac77/svelte-session-manager) - Session store for svelte (currently only for JWT)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [GabrielTenma/lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient) - LightDM-webkit Theme with modern style.
 - [mrd0x/BITB](https://github.com/mrd0x/BITB) - Browser In The Browser (BITB) Templates
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
@@ -698,6 +702,7 @@
 
 ## Lua 
 
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [anasrar/.dotfiles](https://github.com/anasrar/.dotfiles) - my dotfiles over the years
 - [lunarmodules/ldoc](https://github.com/lunarmodules/ldoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
@@ -868,7 +873,6 @@
 ## MDX 
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
-- [layer5io/layer5](https://github.com/layer5io/layer5) - Layer5, expect more from your infrastructure
 - [newrelic/docs-website](https://github.com/newrelic/docs-website) - Source code for @newrelic docs. We welcome pull requests and questions on our docs!
 - [MarsX-dev/floatui](https://github.com/MarsX-dev/floatui) - Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
@@ -926,6 +930,7 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [davisonio/awesome-gif](https://github.com/davisonio/awesome-gif) - A curated list of awesome GIF resources.
 - [metaory/hiring-exercise-template](https://github.com/metaory/hiring-exercise-template) - Hiring exercise template
 - [sethvincent/awesome-virtual-dom](https://github.com/sethvincent/awesome-virtual-dom) - Modules & resources related to the virtual-dom module.
@@ -986,7 +991,6 @@
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [rocketlaunchr/awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte) - Awesome Svelte: Useful resources for developing Svelte applications
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-- [LappleApple/awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
 - [D3Ext/aesthetic-wallpapers](https://github.com/D3Ext/aesthetic-wallpapers) - An awesome collection of aesthetic wallpapers
 - [cipher387/Advanced-search-operators-list](https://github.com/cipher387/Advanced-search-operators-list) - List of the links to the docs for different services, which explain using of advanced search operators
@@ -1118,6 +1122,7 @@
 
 ## Python 
 
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
@@ -1186,10 +1191,10 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [mvt-project/mvt](https://github.com/mvt-project/mvt) - MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
+- [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [bilelmoussaoui/Hardcode-Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - Fixes Hardcoded tray icons in Linux
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
+- [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [carlcarl/powerline-zsh](https://github.com/carlcarl/powerline-zsh) - Powerline for Zsh (This is a fork from https://github.com/milkbikis/powerline-bash)
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -1333,7 +1338,7 @@
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 - [Manishearth/elsa](https://github.com/Manishearth/elsa) - Append-only collections for Rust where borrows to entries can outlive insertions
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -1448,6 +1453,7 @@
 
 ## Shell 
 
+- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) - generate animated pseudo random glitch SVG from ASCII characters
 - [metaory/bulk-git-tools](https://github.com/metaory/bulk-git-tools) - small collection of git bulk scripts
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -1714,12 +1720,11 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
-- [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-- [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
-- [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
+- [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [monkeytypegame/monkeytype](https://github.com/monkeytypegame/monkeytype) - The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
@@ -1748,7 +1753,7 @@
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [sst/sst](https://github.com/sst/sst) - SST v2
+- [sst/sst](https://github.com/sst/sst) - Build full-stack apps on your own infrastructure.
 - [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions.
 - [vimcolorschemes/vimcolorschemes](https://github.com/vimcolorschemes/vimcolorschemes) - Find the best vim color schemes around
 - [stoplightio/prism](https://github.com/stoplightio/prism) - Turn any OpenAPI2/3 and Postman Collection file into an API server with mocking, transformations and validations.
