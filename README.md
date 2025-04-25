@@ -106,7 +106,7 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
-- [CDSoft/luax](https://github.com/CDSoft/luax) - luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone executables from Lua scripts.
+- [CDSoft/luax](https://github.com/CDSoft/luax) - Moved to Codeberg, this repo is just a (temporary) mirror -- luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -341,7 +341,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
-- [buraksezer/olric](https://github.com/buraksezer/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
+- [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
 - [awslabs/serverless-rules](https://github.com/awslabs/serverless-rules) - Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
 - [antonmedv/countdown](https://github.com/antonmedv/countdown) - Terminal countdown timer
 - [tenable/terrascan](https://github.com/tenable/terrascan) - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
@@ -456,6 +456,8 @@
 
 ## JavaScript 
 
+- [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - A dynamic SVG glitch effect generator with real-time preview and customization
+- [metaory/iconify-picker](https://github.com/metaory/iconify-picker) - Zero-dependency icon picker with built-in UI modes and native events
 - [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
@@ -1387,7 +1389,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [elkowar/pipr](https://github.com/elkowar/pipr) - A tool to interactively write shell pipelines.
 - [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
 - [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
@@ -1866,7 +1868,7 @@
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli) - ⚒️ Redocly CLI makes OpenAPI easy. Lint/validate to any standard, generate beautiful docs, and more.
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [optimizely/javascript-sdk](https://github.com/optimizely/javascript-sdk) - JavaScript SDK for Optimizely Feature Experimentation and Optimizely Full Stack (legacy).　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🚨 Calling All Developers! 🚨　　　　　　　　　　　　　We invite you to provide yo
+- [optimizely/javascript-sdk](https://github.com/optimizely/javascript-sdk) - JavaScript SDK for Optimizely Feature Experimentation and Optimizely Full Stack (legacy).
 - [Budibase/budibase](https://github.com/Budibase/budibase) - Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
