@@ -184,6 +184,7 @@
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
 - [Naezr/ShyFox](https://github.com/Naezr/ShyFox) - A very shy little theme that hides the entire browser interface in the window border
+- [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [aws-samples/cloudwatch-rum-demo](https://github.com/aws-samples/cloudwatch-rum-demo) - Amazon Cloudwatch RUM demo
@@ -194,7 +195,7 @@
 - [metaory/jsonresume-theme-meta](https://github.com/metaory/jsonresume-theme-meta) - yet another JSON Resume theme with live reload and docker
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry_blossom: Aesthetic OpenboxWM Environment
-- [migueravila/simplefox](https://github.com/migueravila/simplefox) - 🦊 A Userstyle theme for Firefox minimalist and Keyboard centered.
+- [migueravila/simplefox](https://github.com/migueravila/simplefox) - A Userstyle theme for Firefox minimalist and Keyboard centered.
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [pronobis/material-linux-theme](https://github.com/pronobis/material-linux-theme) - Auto-generated theme files for various Linux apps employing the Android Material color palette.
@@ -250,7 +251,7 @@
 ## GLSL 
 
 - [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
-- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility
+- [patriciogonzalezvivo/lygia](https://github.com/patriciogonzalezvivo/lygia) - LYGIA, it's a granular and multi-language (GLSL, HLSL, Metal,  WGSL,  WEGL and CUDA) shader library designed for performance and flexibility
 
 ## Go 
 
@@ -447,7 +448,7 @@
 - [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling.
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) - Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
 - [winterbe/github-matrix](https://github.com/winterbe/github-matrix) - The GitHub Matrix
@@ -456,9 +457,9 @@
 
 ## JavaScript 
 
-- [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - A dynamic SVG glitch effect generator with real-time preview and customization
-- [metaory/iconify-picker](https://github.com/metaory/iconify-picker) - Zero-dependency icon picker with built-in UI modes and native events
-- [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
+- [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - SVG, WebM, and GIF Glitch Generator
+- [metaory/iconify-picker](https://github.com/metaory/iconify-picker) - 🚧 Zero-dependency icon picker with built-in UI modes and native events
+- [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - 🚧 A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
 - [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Deterministic WebGL Gradient Animations
@@ -478,6 +479,7 @@
 - [metaory/coi-serviceworker](https://github.com/metaory/coi-serviceworker) - Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [iamreiyn/lua-pattern-tester](https://github.com/iamreiyn/lua-pattern-tester) - A live web-based tool for testing, matching and debugging Lua patterns against your input.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [jagracey/Awesome-Unicode](https://github.com/jagracey/Awesome-Unicode) - :joy: :ok_hand: A curated list of delightful Unicode tidbits, packages and resources.
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [WebSVG/voronoi](https://github.com/WebSVG/voronoi) - Parametric Voronoi generator with real time editing and SVG export
@@ -523,7 +525,6 @@
 - [Kyutefox/Iconify](https://github.com/Kyutefox/Iconify) - Upgrade your designs with our browser extension! Download premium SVG icons and stickers from Flaticon, Icons8, and Iconscout hassle-free. No more costly subscriptions.
 - [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
 - [Chatmosphere/chatmosphere-app](https://github.com/Chatmosphere/chatmosphere-app) - We are a small group of friendly humans working on an open source project to make informal video calls more fun and dynamic.
-- [Matt-FTW/dotfiles](https://github.com/Matt-FTW/dotfiles) - 💄 Yet another Aesthetic Hyprland Config
 - [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 - [andreasbm/web-skills](https://github.com/andreasbm/web-skills) - A visual overview of useful skills to learn as a web developer
 - [agentejo/cockpit](https://github.com/agentejo/cockpit) - Add content management functionality to any site - plug & play / headless / api-first CMS
@@ -685,7 +686,6 @@
 - [duo-labs/cloudmapper](https://github.com/duo-labs/cloudmapper) - CloudMapper helps you analyze your Amazon Web Services (AWS) environments.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices) - Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [alyssaxuu/mapus](https://github.com/alyssaxuu/mapus) - A map tool with real-time collaboration 🗺️
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [auth0-samples/auth0-nodejs-webapp-sample](https://github.com/auth0-samples/auth0-nodejs-webapp-sample) - Auth0 Integration Samples for Node Web Applications
 - [auth0/rules](https://github.com/auth0/rules) - Rules are code snippets written in JavaScript that are executed as part of the authentication pipeline in Auth0
 - [elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines) - A set of best practices for JavaScript projects
@@ -953,7 +953,7 @@
 
 ## Mojo 
 
-- [modular/max](https://github.com/modular/max) - The MAX Platform (includes Mojo)
+- [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
 ## Nim 
 
@@ -1198,7 +1198,7 @@
 
 ## Prolog 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## Python 
 
@@ -1251,7 +1251,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -1320,7 +1320,7 @@
 - [edigaryev/awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) - A categorized list of system calls used by popular Unix-like operating systems
 - [metaory/void](https://github.com/metaory/void) - [FORK] +db.json  --  mindmap TUI
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
-- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A WIP Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
@@ -1627,6 +1627,7 @@
 - [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI is a set of UI primitives that start their lives in clean HTML and CSS. These standards compliant components are then copied to our framework implementations in: React, Vue 3, Angular, and 
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
@@ -1643,7 +1644,6 @@
 - [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink) - Comlink makes WebWorkers enjoyable.
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [voideditor/void](https://github.com/voideditor/void) - 
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
 - [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
@@ -1727,7 +1727,7 @@
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [ariakit/ariakit](https://github.com/ariakit/ariakit) - Toolkit with accessible components, styles, and examples for your next web app
 - [awslabs/threat-composer](https://github.com/awslabs/threat-composer) - A simple threat modeling tool to help humans to reduce time-to-value when threat modeling
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
@@ -1812,7 +1812,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [aws-samples/amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp) - An example for using Amazon Cognito together with an external IdP
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
