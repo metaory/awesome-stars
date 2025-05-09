@@ -113,7 +113,7 @@
 - [cococry/ragnar](https://github.com/cococry/ragnar) - Minimal, flexible & user-friendly X tiling window manager
 - [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 - [notroj/neon](https://github.com/notroj/neon) - neon - an HTTP/1.1 and WebDAV client library with a C API
-- [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
+- [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -165,7 +165,7 @@
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components
 - [google/googletest](https://github.com/google/googletest) - GoogleTest - Google Testing and Mocking Framework
-- [SaptakBhoumik/Peregrine](https://github.com/SaptakBhoumik/Peregrine) - A blazing fast language for the blazing fast world(WIP)
+- [foss-india/Peregrine](https://github.com/foss-india/Peregrine) - A blazing fast language for the blazing fast world(WIP)
 - [mgeeky/ThreadStackSpoofer](https://github.com/mgeeky/ThreadStackSpoofer) - Thread Stack Spoofing - PoC for an advanced In-Memory evasion technique allowing to better hide injected shellcode's memory allocation from scanners and analysts.
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
@@ -458,7 +458,6 @@
 ## JavaScript 
 
 - [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - SVG, WebM, and GIF Glitch Generator
-- [metaory/iconify-picker](https://github.com/metaory/iconify-picker) - 🚧 Zero-dependency icon picker with built-in UI modes and native events
 - [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - 🚧 A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
@@ -1211,7 +1210,7 @@
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 - [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing with ML, LLM and Vision LLM
+- [katanaml/sparrow](https://github.com/katanaml/sparrow) - Data processing and instruction calling with ML, LLM and Vision LLM
 - [soda480/ascii-animator](https://github.com/soda480/ascii-animator) - A simple ASCII text animator
 - [google/gif-for-cli](https://github.com/google/gif-for-cli) - 
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
@@ -1824,7 +1823,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [rough-stuff/wired-elements](https://github.com/rough-stuff/wired-elements) - Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.
 - [elastic/eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
