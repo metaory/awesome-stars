@@ -145,6 +145,7 @@
 - [sirjuddington/SLADE](https://github.com/sirjuddington/SLADE) - It's a Doom editor
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [pyroscope/rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) - :art: Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
@@ -489,8 +490,6 @@
 - [bukinoshita/hash-avatar](https://github.com/bukinoshita/hash-avatar) - :rainbow: Hash avatar algorithm
 - [dkzlv/simple-hue-picker](https://github.com/dkzlv/simple-hue-picker) - 🎨 Tiny Hue picker for any framework!
 - [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website) - 
-- [metaory/github-open-stats](https://github.com/metaory/github-open-stats) - GitHub Stats on Edge 🚧 Early greenfield experiment -- Hono on Cloudflare Workers 🧬
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [metaory/metaory.github.io](https://github.com/metaory/metaory.github.io) - 
 - [metaory/markup.json](https://github.com/metaory/markup.json) - DOM Markup AST representation in compact JSON ╼╾ Specification, Transformer Library and CLI
 - [metaory/meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) - Zero Dependency Node Server Challenge
@@ -610,7 +609,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [techgaun/active-forks](https://github.com/techgaun/active-forks) - Find active github forks of a repo https://git.io/vSnrC
 - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names.
-- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-Generation full-text search library for Browser and Node.js
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [d3/d3-geo-projection](https://github.com/d3/d3-geo-projection) - Extended geographic projections for d3-geo.
 - [metaory/mxcolr-js-cli](https://github.com/metaory/mxcolr-js-cli) - :construction::construction::construction: ヘ Generate, Preview and Apply beautiful unified human friendly pseudo random color schemes, SYSTEM WIDE!
 - [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
@@ -1091,7 +1090,7 @@
 - [Tungtono/awesome-gpt](https://github.com/Tungtono/awesome-gpt) - A curated list of awesome ChatGPT-related applications, software, tools, resources.
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [githubnext/blocks](https://github.com/githubnext/blocks) - A set of files to use as input for Blocks.
-- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
+- [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [lebinh/nginx-conf](https://github.com/lebinh/nginx-conf) - A collection of useful Nginx configuration snippets
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [tc39/proposal-decorators](https://github.com/tc39/proposal-decorators) - Decorators for ES6 classes
@@ -1314,6 +1313,8 @@
 
 ## Rust 
 
+- [grantshandy/thesaurus-rs](https://github.com/grantshandy/thesaurus-rs) - An offline Rust thesaurus library.
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [edigaryev/awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) - A categorized list of system calls used by popular Unix-like operating systems
@@ -1540,6 +1541,7 @@
 
 ## Shell 
 
+- [metaory/theschain](https://github.com/metaory/theschain) - An Interactive Offline Thesaurus CLI Tool
 - [metaory/zsh-roundy-prompt](https://github.com/metaory/zsh-roundy-prompt) - fast • minimal • roundy prompt for ZSH in 140 LoC
 - [metaory/deadzone](https://github.com/metaory/deadzone) - incubator for ideas in limbo
 - [metaory/svg-timeline-diagram-action](https://github.com/metaory/svg-timeline-diagram-action) - 🚧 Generates and commits SVG Timeline Diagrams from your data
@@ -1810,7 +1812,7 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
-- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.
+- [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [aws-samples/amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp) - An example for using Amazon Cognito together with an external IdP
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -1820,7 +1822,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Open-source identity infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
