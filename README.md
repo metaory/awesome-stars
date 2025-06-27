@@ -112,7 +112,7 @@
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [cococry/ragnar](https://github.com/cococry/ragnar) - Minimal, flexible & user-friendly X tiling window manager
-- [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
+- [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A terminal emulator and multiplexer with mouse support, overlapped windows and networked clients. Text-mode equivalent of X11 server + VNC server
 - [notroj/neon](https://github.com/notroj/neon) - neon - an HTTP/1.1 and WebDAV client library with a C API
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -465,6 +465,7 @@
 
 ## JavaScript 
 
+- [zkat/mona](https://github.com/zkat/mona) - Composable parsing for JavaScript
 - [metaory/lanpad](https://github.com/metaory/lanpad) - 🚦simple, real-time collaborative text editor over local network 🚥
 - [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - SVG, WebM, and GIF Glitch Generator
 - [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - 🚧 A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
@@ -593,7 +594,7 @@
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) - 
 - [github/combine-prs](https://github.com/github/combine-prs) - GitHub Action to combine multiple PRs into a single one
 - [upgundecha/howtheysre](https://github.com/upgundecha/howtheysre) - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-- [neomjs/neo](https://github.com/neomjs/neo) - The application worker driven frontend framework
+- [neomjs/neo](https://github.com/neomjs/neo) - The multi-threaded frontend framework for ultra-fast, desktop-like enterprise web applications
 - [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 📜 33 JavaScript concepts every developer should know.
 - [actions/reusable-workflows](https://github.com/actions/reusable-workflows) - Reusable workflows for developing actions
 - [ehmicky/template-javascript](https://github.com/ehmicky/template-javascript) - JavaScript library template
@@ -1383,7 +1384,7 @@
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter)
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
@@ -1652,6 +1653,7 @@
 
 ## TypeScript 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1681,7 +1683,7 @@
 - [growthbook/growthbook](https://github.com/growthbook/growthbook) - Open Source Feature Flagging and A/B Testing Platform
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [vercel/fun](https://github.com/vercel/fun) - ƒun - Local serverless function λ development runtime
-- [aidenybai/million](https://github.com/aidenybai/million) - Optimize React performance and make your React 70% faster in minutes, not months.
+- [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [solidjs/solid-start](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
@@ -1837,7 +1839,7 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Auth infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+- [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
