@@ -420,7 +420,7 @@
 - [dchester/yhtml](https://github.com/dchester/yhtml) - Tiny html tag function for rendering Web Component templates with event binding
 - [chawyehsu/base16-snazzy-scheme](https://github.com/chawyehsu/base16-snazzy-scheme) - 🍇Elegant base16 theme with bright colors
 - [jiep/offensive-ai-compilation](https://github.com/jiep/offensive-ai-compilation) - A curated list of useful resources that cover Offensive AI.
-- [metaory/meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) - Vanilla JS Web Components Demo
+- [metaory/meta-vanilla-web-component](https://github.com/metaory/meta-vanilla-web-component) - Proof-of-concept micro framework built on Web Components with zero dependencies, demonstrating modern vanilla JS patterns
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
@@ -459,7 +459,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) - Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
 - [winterbe/github-matrix](https://github.com/winterbe/github-matrix) - The GitHub Matrix
@@ -470,23 +470,23 @@
 
 - [zkat/mona](https://github.com/zkat/mona) - Composable parsing for JavaScript
 - [metaory/lanpad](https://github.com/metaory/lanpad) - 🚦simple, real-time collaborative text editor over local network 🚥
-- [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - SVG, WebM, and GIF Glitch Generator
+- [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - Web-based glitch generator with real-time preview for SVG, WebM, GIF, PNG, and MP4 formats with customizable effects
 - [metaory/symbol-logo-maker](https://github.com/metaory/symbol-logo-maker) - 🚧 A minimalist tool that transforms any symbol, character, or glyph into a professional logo with custom colors and background
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) - Code examples that accompany various MDN DOM and Web API documentation pages
 - [PavelDoGreat/WebGL-Fluid-Simulation](https://github.com/PavelDoGreat/WebGL-Fluid-Simulation) - Play with fluids in your browser (works even on mobile)
-- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Deterministic Procedural WebGL Gradient Animations
-- [metaory/shadertoy2webgl](https://github.com/metaory/shadertoy2webgl) - Convert ShaderToy shaders to WebGL2 - CLI and library
-- [metaory/noseyparker-compact](https://github.com/metaory/noseyparker-compact) - Compact report formatters for noseyparker
+- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations
+- [metaory/shadertoy2webgl](https://github.com/metaory/shadertoy2webgl) - CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
+- [metaory/noseyparker-compact](https://github.com/metaory/noseyparker-compact) - CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
 - [Matt-Esch/virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
-- [metaory/glslmine](https://github.com/metaory/glslmine) - Modern GLSL shader gallery
+- [metaory/glslmine](https://github.com/metaory/glslmine) - Modern GLSL shader gallery with auto-fetch from GLSL Sandbox and Shadertoy, featuring smart filters and minimal interface
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building stunning, memorable websites.
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples
-- [metaory/xvoid](https://github.com/metaory/xvoid) - a minimal cosmic void new tab experience
+- [metaory/xvoid](https://github.com/metaory/xvoid) - a minimal, distraction-free new tab cosmic void experience
 - [metaory/source-map-visualization](https://github.com/metaory/source-map-visualization) - [FORK] an unholy sourcemap visualization tool
-- [metaory/xtabs](https://github.com/metaory/xtabs) - securely save and restore tabs across sessions
+- [metaory/xtabs](https://github.com/metaory/xtabs) - 🚧 securely save and restore tabs across sessions
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [metaory/coi-serviceworker](https://github.com/metaory/coi-serviceworker) - Cross-origin isolation (COOP and COEP) through a service worker for situations in which you can't control the headers (e.g. GH pages)
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) - A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
@@ -496,13 +496,13 @@
 - [WebSVG/voronoi](https://github.com/WebSVG/voronoi) - Parametric Voronoi generator with real time editing and SVG export
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [todogroup/repolinter](https://github.com/todogroup/repolinter) - Repolinter, The Open Source Repository Linter
-- [metaory/junk-activity-scanner](https://github.com/metaory/junk-activity-scanner) - An automated tool that scans and reports bot-generated junk repositories to combat inauthentic activity
+- [metaory/junk-activity-scanner](https://github.com/metaory/junk-activity-scanner) - Automated GitHub repository scanner that evaluates and reports bot-generated junk repositories using multi-language evaluators
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [bukinoshita/hash-avatar](https://github.com/bukinoshita/hash-avatar) - :rainbow: Hash avatar algorithm
 - [dkzlv/simple-hue-picker](https://github.com/dkzlv/simple-hue-picker) - 🎨 Tiny Hue picker for any framework!
 - [simple-icons/simple-icons-website](https://github.com/simple-icons/simple-icons-website) - 
 - [metaory/metaory.github.io](https://github.com/metaory/metaory.github.io) - 
-- [metaory/markup.json](https://github.com/metaory/markup.json) - DOM Markup AST representation in compact JSON ╼╾ Specification, Transformer Library and CLI
+- [metaory/markup.json](https://github.com/metaory/markup.json) - A minimal markup DSL and AST for JSON - Transforms into HTML, SVG or XML-like output via CLI or JS library
 - [metaory/meta-zd-node-server-poc](https://github.com/metaory/meta-zd-node-server-poc) - Zero Dependency Node Server Challenge
 - [koddsson/jsonresume](https://github.com/koddsson/jsonresume) - 📄 A simple service that inputs JSON and outputs simple HTML resumes
 - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples
@@ -519,7 +519,7 @@
 - [hexlet-basics/exercises-javascript](https://github.com/hexlet-basics/exercises-javascript) - Free Javascript courses
 - [serverless/blog](https://github.com/serverless/blog) - serverless.com/blog – Posts from the Serverless community & core team. Contributions welcome!
 - [antonk52/lilconfig](https://github.com/antonk52/lilconfig) - Zero-dependency nodejs config seeker.
-- [metaory/pcall.js](https://github.com/metaory/pcall.js) - ✱ Minimal Result/Monad like tuples for JS
+- [metaory/pcall.js](https://github.com/metaory/pcall.js) - Minimal Result/Monad library inspired by Lua pcall, Elixir Result, and Rust Result with lifecycle hooks and zero dependencies
 - [devcontainers/images](https://github.com/devcontainers/images) - Repository for pre-built dev container images published under mcr.microsoft.com/devcontainers
 - [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun
 - [nodejs/repl](https://github.com/nodejs/repl) - REPL rewrite for Node.js ✨🐢🚀✨
@@ -547,7 +547,7 @@
 - [metaory/ancestor-check-action](https://github.com/metaory/ancestor-check-action) - checks if PR have any commits from the target branch
 - [metaory/advent-of-code](https://github.com/metaory/advent-of-code) - Advent Of Code Solutions (2021-2022)
 - [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Accounting Invoicing Software | Node Js React
-- [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) - :pushpin: GitHub Action to update GitHub profile README.md with categorized repos based on their Topics
+- [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) - GitHub Action to automatically update profile README with categorized repositories by topics, sorted by stars and update time
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [metaory/mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) - autonomous mail delivery trains challenge
 - [swyxio/svelte-amplify-datastore-demo](https://github.com/swyxio/svelte-amplify-datastore-demo) - How to do Auth + Amplify Data Store with Svelte
@@ -669,7 +669,7 @@
 - [stackvana/hook.io](https://github.com/stackvana/hook.io) - Open-Source Microservice Hosting Platform
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [bukalapak/snowboard](https://github.com/bukalapak/snowboard) - API blueprint toolkit
-- [metaory/proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) - Transform, Mutate, Wrap your existing APIs
+- [metaory/proxy-api-transformer](https://github.com/metaory/proxy-api-transformer) - Serverless AWS API Gateway proxy function for transforming, combining, and wrapping existing APIs with JSONPath support
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [Asabeneh/30-Days-Of-JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript) - 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days,  please just follow your own pace. 
 - [thunlp/WantWords](https://github.com/thunlp/WantWords) - An open-source online reverse dictionary.
@@ -985,7 +985,6 @@
 
 ## Others 
 
-- [metaory/xdedup](https://github.com/metaory/xdedup) - find and remove duplicates
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency) - Patterns and resources of low latency programming.
 - [penberg/awesome-os](https://github.com/penberg/awesome-os) - A curated list of resources on operating system design and implementation.
@@ -1036,7 +1035,6 @@
 - [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans) - An ultra-simplified explanation to design patterns
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [liuchong/awesome-roadmaps](https://github.com/liuchong/awesome-roadmaps) - A curated list of roadmaps.
-- [metaory/seqfetch-cli](https://github.com/metaory/seqfetch-cli) - CLI for automating downloads of sequential content like weekly episodes using incremental IDs
 - [kairichard/awesome-nocode-lowcode](https://github.com/kairichard/awesome-nocode-lowcode) - A curated list of awesome nocode / lowcode applications to build other applications
 - [awesomedata/awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 - [yackermann/awesome-webauthn](https://github.com/yackermann/awesome-webauthn) - 🔐 A curated list of awesome WebAuthn and Passkey resources
@@ -1218,7 +1216,7 @@
 - [metaory/tess-pdfseq](https://github.com/metaory/tess-pdfseq) - Configurable OCR for documents in any language. Built with Tesseract and optimized for sequential PDF processing.
 - [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules) - A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
-- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
@@ -1263,7 +1261,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the Open Cloud Security platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuous monitoring, security assessments & audits, incident response, compliance, hardening 
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team!
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -1327,6 +1325,7 @@
 
 ## Rust 
 
+- [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
@@ -1559,14 +1558,17 @@
 
 ## Shell 
 
-- [metaory/nyaa-cli](https://github.com/metaory/nyaa-cli) - Smart anime torrent fetcher with stateful episode tracking
-- [metaory/theschain](https://github.com/metaory/theschain) - An Interactive Offline Thesaurus CLI Tool
-- [metaory/github-repo-cards](https://github.com/metaory/github-repo-cards) - 🚧 [WIP] Sleek, Modern, Static cards for your GitHub repositories
+- [metaory/mbar.sh](https://github.com/metaory/mbar.sh) - minimal declarative bash status bar
+- [metaory/spotifydownload](https://github.com/metaory/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
+- [metaory/xdedup](https://github.com/metaory/xdedup) - find and remove duplicates
+- [metaory/nyaa-cli](https://github.com/metaory/nyaa-cli) - Bash CLI for automated anime torrent downloads with stateful episode tracking, quality filters, and uploader selection
+- [metaory/theschain](https://github.com/metaory/theschain) - Interactive CLI thesaurus with continuous chain lookups
+- [metaory/github-repo-cards](https://github.com/metaory/github-repo-cards) - GitHub Action and CLI for generating beautiful static PNG/SVG cards with dark/light themes, perfect for dashboards and READMEs
 - [metaory/zsh-roundy-prompt](https://github.com/metaory/zsh-roundy-prompt) - fast • minimal • roundy prompt for ZSH in 140 lines
 - [metaory/deadzone](https://github.com/metaory/deadzone) - incubator for ideas in limbo
 - [metaory/svg-timeline-diagram-action](https://github.com/metaory/svg-timeline-diagram-action) - 🚧 Generates and commits SVG Timeline Diagrams from your data
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
-- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) - generate animated pseudo random glitch SVG from Unicode characters
+- [metaory/glitcher-cli](https://github.com/metaory/glitcher-cli) - Bash CLI to generate animated pseudo-random glitch SVG effects from ASCII characters with randomized parameters
 - [metaory/bulk-git-tools](https://github.com/metaory/bulk-git-tools) - small collection of git bulk scripts
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps) - This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps
@@ -1592,7 +1594,7 @@
 - [mykeels/slack-theme-cli](https://github.com/mykeels/slack-theme-cli) - A CLI tool for changing Slack's desktop app colors
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
-- [metaory/confsubst](https://github.com/metaory/confsubst) - Templating and Variable Interpolation CLI Utility -- Substitutes Placeholders • Run Pre/Post Hooks • Self-contained Options with modeline like syntax
+- [metaory/confsubst](https://github.com/metaory/confsubst) - POSIX-compliant templating CLI with modeline syntax, environment variable substitution, and pre/post hooks for configuration management
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1661,6 +1663,7 @@
 
 ## TypeScript 
 
+- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with lightning fast search over public and private documentation.
 - [anthropics/dxt](https://github.com/anthropics/dxt) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -1886,7 +1889,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace) - Web Awesome ("Shoelace 3") has been released! Get it here 👇👇👇
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -1987,7 +1990,7 @@
 
 ## XC 
 
-- [metaory/xico](https://github.com/metaory/xico) - A simple tool to make images from a single character or in bulk from a template
+- [metaory/xico](https://github.com/metaory/xico) - Minimal CLI utility to generate SVG or PNG images from single Unicode characters or templates, ideal for icon and glyph creation
 - [metaory/public](https://github.com/metaory/public) - 
 
 ## Zig 
