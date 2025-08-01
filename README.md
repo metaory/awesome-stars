@@ -459,7 +459,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 700+ plugins. Alternative to Airflow, n8n, Dagster, Prefect, Rundeck, VMware vRA, Zapier ...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) - Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
 - [winterbe/github-matrix](https://github.com/winterbe/github-matrix) - The GitHub Matrix
@@ -468,6 +468,8 @@
 
 ## JavaScript 
 
+- [metaory/data-grid-selector](https://github.com/metaory/data-grid-selector) - 🚧  A lightweight, framework-agnostic web component for interactive boolean data visualization. Click and drag to toggle cells on/off 🚧
+- [metaory/pickr](https://github.com/metaory/pickr) - 🚧 A modern Chrome extension for interactive element selection and DOM inspection with overlay-based interface and comprehensive action hints
 - [zkat/mona](https://github.com/zkat/mona) - Composable parsing for JavaScript
 - [metaory/lanpad](https://github.com/metaory/lanpad) - 🚦simple, real-time collaborative text editor over local network 🚥
 - [metaory/glitcher-app](https://github.com/metaory/glitcher-app) - Web-based glitch generator with real-time preview for SVG, WebM, GIF, PNG, and MP4 formats with customizable effects
@@ -626,7 +628,7 @@
 - [snorpey/jpg-glitch](https://github.com/snorpey/jpg-glitch) - glitch images with jpg encoding
 - [meese-enterprises/cyberpunk-logo-generator](https://github.com/meese-enterprises/cyberpunk-logo-generator) - The code used to create the Meese Enterprises logo.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
-- [metaory/simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) - returns the path at which a provided pattern exists, checking the current directory and any parent folders recursively up
+- [metaory/simple-find-file-recursively-up](https://github.com/metaory/simple-find-file-recursively-up) - returns the path at which a provided pattern exists, checking the current directory and any parent directories recursively up
 - [aws-samples/lambdaedge-openidconnect-samples](https://github.com/aws-samples/lambdaedge-openidconnect-samples) - 
 - [metaory/mxflow-cli](https://github.com/metaory/mxflow-cli) - General purpose task runner
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
@@ -1061,7 +1063,7 @@
 - [noahbuscher/inspire](https://github.com/noahbuscher/inspire) - Collection of frontend dev and web design links :bulb:
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [cipher387/awesome-grep](https://github.com/cipher387/awesome-grep) - List of GREP modifications and alternatives for a variety of purposes
-- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates) - 
+- [xcomptek/awesome-saas-boilerplates](https://github.com/xcomptek/awesome-saas-boilerplates) - List of SaaS boilerplates (starter kits)
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [tc39/proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support.
@@ -1277,7 +1279,7 @@
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [xi/xiwal](https://github.com/xi/xiwal) - Generate terminal color schemes
 - [LimerBoy/Impulse](https://github.com/LimerBoy/Impulse) - :bomb: Impulse Denial-of-service ToolKit
-- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
+- [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
@@ -1410,7 +1412,6 @@
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [getdozer/dozer](https://github.com/getdozer/dozer) - Dozer is a real-time data movement tool that leverages CDC from various sources and moves data into various sinks.
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike) - ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer
-- [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [m1guelpf/browser-agent](https://github.com/m1guelpf/browser-agent) - A browser AI agent, using GPT-4
 - [nurmohammed840/websocket.rs](https://github.com/nurmohammed840/websocket.rs) - WebSocket implementation for both client and server
@@ -1663,7 +1664,8 @@
 
 ## TypeScript 
 
-- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with lightning fast search over public and private documentation.
+- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with token efficient search over public and private documentation.
 - [anthropics/dxt](https://github.com/anthropics/dxt) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
@@ -1788,7 +1790,7 @@
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - An open source documentation tool to bring discoverability to your event-driven architectures
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [octokit/request.js](https://github.com/octokit/request.js) - Send parameterized requests to GitHub’s APIs with sensible defaults in browsers and Node
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) - This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
