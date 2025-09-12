@@ -76,7 +76,7 @@
 
 ## Assembly 
 
-- [donno2048/snake](https://github.com/donno2048/snake) - A minimal snake in assembly
+- [donno2048/snake](https://github.com/donno2048/snake) - A 56 bytes snake game in assembly
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) - Collection of malware source code for a variety of platforms in an array of different programming languages.
 
@@ -222,7 +222,6 @@
 
 ## Dart 
 
-- [Coralnws/orderapp_flutter](https://github.com/Coralnws/orderapp_flutter) - This project is a Flutter mobile application created as part of an assessment for Boostorder
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [vandadnp/flutter-tips-and-tricks](https://github.com/vandadnp/flutter-tips-and-tricks) - A Collection of Flutter and Dart Tips and Tricks
 - [TheAlphamerc/flutter_ecommerce_app](https://github.com/TheAlphamerc/flutter_ecommerce_app) - E-Commerce App built in flutter
@@ -266,7 +265,7 @@
 
 ## Go 
 
-- [Coralnws/CloudSync](https://github.com/Coralnws/CloudSync) - Omni-directional CloudSync orchestrates real-time data harmonization across elastic, decoupled, and federated cloud topologies.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [alexferrari88/prompt-scanner](https://github.com/alexferrari88/prompt-scanner) - Find buried AI prompts in any codebase. Instantly⚡
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [apache/incubator-devlake](https://github.com/apache/incubator-devlake) - Apache DevLake is an open-source dev data platform to ingest, analyze, and visualize the fragmented data from DevOps tools, extracting insights for engineering excellence, developer experience, and co
@@ -429,7 +428,6 @@
 - [kodepandai/awesome-gh-cli-extensions](https://github.com/kodepandai/awesome-gh-cli-extensions) - Awesome list of github cli extensions.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [0atman/noboilerplate](https://github.com/0atman/noboilerplate) - Code for my talks on the No Boilerplate channel
-- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) - A collection of resources on modern C++
 - [shahednasser/awesome-resources](https://github.com/shahednasser/awesome-resources) - :sunglasses: List of helpful resources added by the community for the community!
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
@@ -465,7 +463,7 @@
 - [questdb/questdb](https://github.com/questdb/questdb) - QuestDB is a high performance, open-source, time-series database
 - [enso-org/enso](https://github.com/enso-org/enso) - Enso Analytics is a self-service data prep and analysis platform designed for data teams.
 - [apache/linkis](https://github.com/apache/linkis) - Apache Linkis builds a computation middleware layer to facilitate connection, governance and orchestration between the upper applications and the underlying data engines.
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) - Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
 - [winterbe/github-matrix](https://github.com/winterbe/github-matrix) - The GitHub Matrix
@@ -480,7 +478,7 @@
 - [metaory/markon](https://github.com/metaory/markon) - [wip] 🚧 Minimal Distraction‑free Markdown editor
 - [ShadOoW/web-starter-kit](https://github.com/ShadOoW/web-starter-kit) - An opinionated starter kit with styled-system, graphql-hooks, mobx and nextjs (PWA)
 - [metaory/coloruv](https://github.com/metaory/coloruv) - a minimal natural color picker
-- [metaory/data-grid-selector](https://github.com/metaory/data-grid-selector) - 🚧  A lightweight, framework-agnostic web component for interactive boolean data visualization. Click and drag to toggle cells on/off 🚧
+- [metaory/bit-grid-component](https://github.com/metaory/bit-grid-component) - Framework-agnostic web component for boolean matrices
 - [metaory/pickr](https://github.com/metaory/pickr) - 🚧 A modern Chrome extension for interactive element selection and DOM inspection with overlay-based interface and comprehensive action hints
 - [zkat/mona](https://github.com/zkat/mona) - Composable parsing for JavaScript
 - [metaory/lanpad](https://github.com/metaory/lanpad) - 🚦simple, real-time collaborative text editor over local network 🚥
@@ -717,7 +715,7 @@
 - [rahuldkjain/github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) - 🚀 Generate GitHub profile README easily with the latest add-ons like visitors count, GitHub stats, etc using minimal UI.
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [Reckon-Limited/containerless](https://github.com/Reckon-Limited/containerless) - Serverless plugin for configuring ECS deployment
 - [johnagan/serverless-slackbot](https://github.com/johnagan/serverless-slackbot) - A boilerplate Serverless Slackbot framework with a custom scripts folder (like Hubot)
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
@@ -734,7 +732,7 @@
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ Standard library for JavaScript and Node.js. ✨
+- [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib) - ✨ The fundamental numerical library for JavaScript and TypeScript. ✨
 - [kapost/weeds](https://github.com/kapost/weeds) - A real-world, universal React/Redux boilerplate from Kapost
 - [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 - [tony-pizza/google-gifs-chrome](https://github.com/tony-pizza/google-gifs-chrome) - A Chrome extension that plays animated GIFs in Google Images search results.
@@ -806,7 +804,7 @@
 - [hoelzro/lua-repl](https://github.com/hoelzro/lua-repl) - A Lua REPL implemented in Lua for embedding in other programs
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.3+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
 - [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [metaory/nvim](https://github.com/metaory/nvim) - OLD personal nvim config,, NEW is still private!!
@@ -1507,6 +1505,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
+- [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [void-rs/void](https://github.com/void-rs/void) - terminal-based personal organizer
@@ -1537,7 +1536,7 @@
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [freenet/freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [grantshandy/thes](https://github.com/grantshandy/thes) - A 100% Offline Thesaurus CLI Tool
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [piutranq/cologen](https://github.com/piutranq/cologen) - The simple color scheme configuration generator, inspired by base16-builder.
@@ -1567,10 +1566,11 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 
 ## Shell 
 
+- [metaory/webcomponent-template](https://github.com/metaory/webcomponent-template) - 🚧 Production-ready web component scaffolding with live docs, multi-framework examples, and zero-config deployment
 - [metaory/mactile](https://github.com/metaory/mactile) - Setup script for tiling window manager on macOS
 - [metaory/mbar.sh](https://github.com/metaory/mbar.sh) - minimal declarative bash status bar
 - [metaory/spotifydownload](https://github.com/metaory/spotifydownload) - A dependency-free Spotify playlist downloader that should just work
@@ -1681,7 +1681,6 @@
 - [steviec/mcp-server-tester](https://github.com/steviec/mcp-server-tester) - CLI-based tester for verifying that MCP servers work correctly when called directory and by agents
 - [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
 - [ref-tools/ref-tools-mcp](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with token efficient search over public and private documentation.
-- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [anthropics/mcpb](https://github.com/anthropics/mcpb) - Desktop Extensions: One-click local MCP server installation in desktop apps
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
