@@ -93,6 +93,7 @@
 
 ## C 
 
+- [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
 - [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
@@ -470,6 +471,7 @@
 
 ## JavaScript 
 
+- [metaory/ascii-lab](https://github.com/metaory/ascii-lab) - experimental ASCII art effects
 - [trueadm/ripple](https://github.com/trueadm/ripple) - the elegant TypeScript UI framework
 - [alienkitty/alien.js](https://github.com/alienkitty/alien.js) - 👽 MVC design pattern and render pipeline
 - [greggman/twgl.js](https://github.com/greggman/twgl.js) - A Tiny WebGL helper Library
@@ -757,7 +759,6 @@
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [carefree0910/carefree-creator](https://github.com/carefree0910/carefree-creator) - AI magics meet Infinite draw board.
 
 ## Kotlin 
@@ -1224,7 +1225,6 @@
 ## Python 
 
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
-- [ikramagix/GitGrow](https://github.com/ikramagix/GitGrow) - An automation tool who follows, unfollows, stars, and unstars on autopilot so you can focus on coding while your community grows organically.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [metaory/tess-pdfseq](https://github.com/metaory/tess-pdfseq) - Configurable OCR for documents in any language. Built with Tesseract and optimized for sequential PDF processing.
 - [s-smits/agentic-cursorrules](https://github.com/s-smits/agentic-cursorrules) - A practical approach to managing multiple AI agents in Cursor through strict file-tree partitioning and domain boundaries.
@@ -1271,6 +1271,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 - [aws-cloudformation/aws-cloudformation-templates](https://github.com/aws-cloudformation/aws-cloudformation-templates) - A collection of useful CloudFormation templates
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
@@ -1342,7 +1343,7 @@
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso Database is a project to build the next evolution of SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [grantshandy/thesaurus-rs](https://github.com/grantshandy/thesaurus-rs) - An offline Rust thesaurus library.
@@ -1866,7 +1867,7 @@
 - [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 - [total-typescript/beginners-typescript-tutorial](https://github.com/total-typescript/beginners-typescript-tutorial) - An interactive TypeScript tutorial for beginners
 - [vercel/platforms](https://github.com/vercel/platforms) - A full-stack Next.js app with multi-tenancy.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [aws-samples/amazon-cognito-example-for-external-idp](https://github.com/aws-samples/amazon-cognito-example-for-external-idp) - An example for using Amazon Cognito together with an external IdP
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
