@@ -113,6 +113,7 @@
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [CDSoft/luax](https://github.com/CDSoft/luax) - Moved to Codeberg, this repo is just a (temporary) mirror -- luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -408,6 +409,7 @@
 
 ## HTML 
 
+- [webgpu/webgpufundamentals](https://github.com/webgpu/webgpufundamentals) - 
 - [metaory/chunked-promise](https://github.com/metaory/chunked-promise) - Queue & Chunk your promises
 - [triska/the-power-of-prolog](https://github.com/triska/the-power-of-prolog) - The Power of Prolog: Introduction to modern Prolog
 - [gfxfundamentals/webgl2-fundamentals](https://github.com/gfxfundamentals/webgl2-fundamentals) - WebGL 2 lessons starting from the basics
@@ -478,6 +480,7 @@
 
 ## JavaScript 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [brendan-duncan/webgpu_inspector](https://github.com/brendan-duncan/webgpu_inspector) - Inspection debugger for WebGPU
 - [lo-th/phy](https://github.com/lo-th/phy) - Physics for three. Game engine
 - [metaory/live-css-queries](https://github.com/metaory/live-css-queries) - Live REPL for CSS selectors.
@@ -807,7 +810,6 @@
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [tajmone/highlight](https://github.com/tajmone/highlight) - Source code to formatted text converter
 - [giann/croissant](https://github.com/giann/croissant) - 🥐 A Lua REPL and debugger
-- [CDSoft/luax](https://github.com/CDSoft/luax) - Moved to Codeberg, this repo is just a (temporary) mirror -- luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone 
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [neovim/packspec](https://github.com/neovim/packspec) - ALPHA package dependencies spec
 - [brainfucksec/neovim-lua](https://github.com/brainfucksec/neovim-lua) - Neovim KISS configuration with Lua
@@ -1018,7 +1020,7 @@
 
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [noobmldude/wave-terminal-config](https://github.com/noobmldude/wave-terminal-config) - Config for Wave Terminal
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [sjfricke/awesome-webgl](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more
@@ -1247,6 +1249,7 @@
 
 ## Python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [Agent-Lilith/lilith](https://github.com/Agent-Lilith/lilith) - The Agent.
 - [Agent-Lilith/lilith-emails](https://github.com/Agent-Lilith/lilith-emails) - Sync, Transform, MCP, Daemon for gmail.
@@ -1541,7 +1544,7 @@
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
+- [transact-rs/sqlx](https://github.com/transact-rs/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [awesome-rust-com/awesome-rust](https://github.com/awesome-rust-com/awesome-rust) - Awesome Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [servo/servo](https://github.com/servo/servo) - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
@@ -1612,6 +1615,7 @@
 
 ## Shell 
 
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [UtsavMandal2022/zsh-sage](https://github.com/UtsavMandal2022/zsh-sage) - Intelligent zsh autosuggestions with multi-signal ranking and confidence-colored ghost text
 - [metaory/timelog](https://github.com/metaory/timelog) - Lap-timed terminal notes, line by line
 - [wfleming/gifcast](https://github.com/wfleming/gifcast) - X11 GIF screen recorder
@@ -1724,11 +1728,13 @@
 
 ## TypeScript 
 
+- [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial) - A tutorial on infinite canvas
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished screen recordings without editing. Mac/Windows/Linux
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - 🦦The open-source image toolkit that makes paid tools nervous. Every image tool you need. Your images stay yours.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [metaory/rent-a-human](https://github.com/metaory/rent-a-human) - Human as a Service. Got skills? Get paid.
 - [spotbye/SpotiFLAC](https://github.com/spotbye/SpotiFLAC) - Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
