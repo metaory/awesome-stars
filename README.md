@@ -133,7 +133,6 @@
 - [libsdl-org/SDL](https://github.com/libsdl-org/SDL) - Simple DirectMedia Layer
 - [maximevince/fbDOOM](https://github.com/maximevince/fbDOOM) - fbDOOM
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
@@ -201,7 +200,7 @@
 - [cssnano/cssnano](https://github.com/cssnano/cssnano) - A modular minifier, built on top of the PostCSS ecosystem.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [aws-samples/cloudwatch-rum-demo](https://github.com/aws-samples/cloudwatch-rum-demo) - Amazon Cloudwatch RUM demo
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - Dark theme / More compact / Modular / Blur
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [DN-debug/waybar-examples](https://github.com/DN-debug/waybar-examples) - Waybar layouts for Peux OS
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
@@ -336,6 +335,7 @@
 - [blakek/pomodoro](https://github.com/blakek/pomodoro) - 🍅 A simple terminal-based pomodoro timer
 - [mpostument/awstaghelper](https://github.com/mpostument/awstaghelper) - AWS bulk tagging tool
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [ossf/scorecard-action](https://github.com/ossf/scorecard-action) - Official GitHub Action for OpenSSF Scorecard.
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
@@ -496,9 +496,10 @@
 - [metaory/jsonresume-gist-service](https://github.com/metaory/jsonresume-gist-service) - Static client-side JSON Resume renderer with local JSON and GitHub Gist support
 - [metaory/smart-value-toggle](https://github.com/metaory/smart-value-toggle) - vscode extension - Cycle or increment/decrement values on the current line: targets the value under the cursor or jumps to the first match
 - [patriciogonzalezvivo/glslEditor](https://github.com/patriciogonzalezvivo/glslEditor) - Simple WebGL Fragment Shader Editor
-- [metaory/json-diff-viewer-component](https://github.com/metaory/json-diff-viewer-component) - Compare JSON side-by-side, visually
+- [metaory/json-diff-viewer-component](https://github.com/metaory/json-diff-viewer-component) - Compare JSON side-by-side, visually, Framework Agnostic Web Component
 - [metaory/open-marketplace](https://github.com/metaory/open-marketplace) - 
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
+- [metaory/flexipayroll](https://github.com/metaory/flexipayroll) - A lightweight, browser-based payroll management system for SMEs
 - [metaory/color-input-debounce-demo](https://github.com/metaory/color-input-debounce-demo) - Interactive demonstration comparing color input performance with and without debounce
 - [metaory/contrast-color-picker](https://github.com/metaory/contrast-color-picker) - [WIP] - web component color picker with WCAG contrast guides - drop-in replacement for input type color
 - [metaory/ascii-lab](https://github.com/metaory/ascii-lab) - experimental ASCII art effects
@@ -592,7 +593,7 @@
 - [sadoprotocol/utxo-api](https://github.com/sadoprotocol/utxo-api) - Ordinal aware API wrapper ...
 - [metaory/ancestor-check-action](https://github.com/metaory/ancestor-check-action) - checks if PR have any commits from the target branch
 - [metaory/advent-of-code](https://github.com/metaory/advent-of-code) - Advent Of Code Solutions (2021-2022)
-- [salahlalami/idurar-erp-crm](https://github.com/salahlalami/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
+- [idurar/idurar-erp-crm](https://github.com/idurar/idurar-erp-crm) - Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React
 - [metaory/github-readme-topics-action](https://github.com/metaory/github-readme-topics-action) - GitHub Action to automatically update profile README with categorized repositories by topics, sorted by stars and update time
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 - [metaory/mail-delivery-trains-challenge](https://github.com/metaory/mail-delivery-trains-challenge) - autonomous mail delivery trains challenge
@@ -825,7 +826,7 @@
 - [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) - Use the w, e, b motions like a spider. Move by subwords and skip insignificant punctuation.
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - Lightweight, fast and async formatting and linting plugin for Neovim
-- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
+- [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) - Mirror of: https://codeberg.org/mfussenegger/nvim-lint An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.
 - [creativenull/efmls-configs-nvim](https://github.com/creativenull/efmls-configs-nvim) - An unofficial collection of linters and formatters configured for efm-langserver for neovim.
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
@@ -1026,6 +1027,7 @@
 
 ## Others 
 
+- [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -1460,7 +1462,7 @@
 - [warycat/rustgym](https://github.com/warycat/rustgym) - Leetcode Solutions in Rust, Advent of Code Solutions in Rust and more
 - [console-rs/dialoguer](https://github.com/console-rs/dialoguer) - Rust utility library for nice command line prompts and similar things
 - [console-rs/indicatif](https://github.com/console-rs/indicatif) - A command line progress reporting library for Rust
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native OSS search engine for observability
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 - [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter)
 - [shuttle-hq/shuttle-examples](https://github.com/shuttle-hq/shuttle-examples) - Examples for using Shuttle with different frameworks and resources
@@ -1498,6 +1500,7 @@
 - [sebastienrousseau/libmake](https://github.com/sebastienrousseau/libmake) - A code generator to reduce repetitive tasks and build high-quality Rust libraries. 🦀
 - [AmbientRun/Ambient](https://github.com/AmbientRun/Ambient) - The multiplayer game engine
 - [awslabs/staticwebsite-cli](https://github.com/awslabs/staticwebsite-cli) - Quickly and easily host a static website on AWS.
+- [Brooooooklyn/Image](https://github.com/Brooooooklyn/Image) - Image processing library.
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot) - Compact and efficient synchronization primitives for Rust. Also provides an API for creating custom synchronization primitives.
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
@@ -1628,6 +1631,7 @@
 
 ## Shell 
 
+- [metaory/invert-site](https://github.com/metaory/invert-site) - chrome extension that Toggle CSS invert on the current page
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [metaory/forks-hollow](https://github.com/metaory/forks-hollow) - Keep your fork tree layout -  Drop the weight - Restore when you need the code
 - [UtsavMandal2022/zsh-sage](https://github.com/UtsavMandal2022/zsh-sage) - Intelligent zsh autosuggestions with multi-signal ranking and confidence-colored ghost text
@@ -1727,7 +1731,6 @@
 
 ## Svelte 
 
-- [metaory/flexipayroll](https://github.com/metaory/flexipayroll) - A lightweight, browser-based payroll management system for SMEs
 - [jianyuan/sveltekit-ai-chatbot](https://github.com/jianyuan/sveltekit-ai-chatbot) - A full-featured, hackable SvelteKit AI chatbot
 - [vnglst/svelte-gundb-chat](https://github.com/vnglst/svelte-gundb-chat) - Realtime decentralized chat - demo app for gundb
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -1743,6 +1746,8 @@
 
 ## TypeScript 
 
+- [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
 - [agardnerIT/collector-game](https://github.com/agardnerIT/collector-game) - https://collectorgame.agardner.net Learn the OpenTelemetry Collector with a game!
 - [open-gsd/gsd-pi](https://github.com/open-gsd/gsd-pi) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
@@ -1750,7 +1755,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial) - A tutorial on infinite canvas
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - #1 Swiss army knife for images. Every image tool you'll ever need. Fully offline, 50+ tools, open source. Your images stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for Image, PDF, Video, Audio, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [metaory/rent-a-human](https://github.com/metaory/rent-a-human) - Human as a Service. Got skills? Get paid.
@@ -1880,7 +1885,6 @@
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [aws-samples/multi-tenant-database-isolation-patterns](https://github.com/aws-samples/multi-tenant-database-isolation-patterns) - 
 - [winglang/wing](https://github.com/winglang/wing) - A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡
-- [Brooooooklyn/Image](https://github.com/Brooooooklyn/Image) - Image processing library.
 - [peter-evans/find-comment](https://github.com/peter-evans/find-comment) - A GitHub action to find an issue or pull request comment
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [rickstaa/github-emoji-picker](https://github.com/rickstaa/github-emoji-picker) - A simple emotion picker that displays all the supported GitHub emojis :octocat:.
