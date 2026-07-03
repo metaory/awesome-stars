@@ -215,7 +215,7 @@
 ## Clojure 
 
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [zestdocs/zest](https://github.com/zestdocs/zest) - [UNMAINTAINED] Zest documentation browser
 
 ## CoffeeScript 
@@ -483,6 +483,7 @@
 
 ## JavaScript 
 
+- [metaory/invert-site](https://github.com/metaory/invert-site) - chrome extension that Toggle CSS invert on the current page
 - [metaory/code-copy](https://github.com/metaory/code-copy) - Chrome extension - Copy text from code blocks and page elements to the clipboard on click
 - [golanlevin/p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources) - An archive of monoline vector fonts, and p5.js code to render them.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -690,7 +691,7 @@
 - [timqian/chart.xkcd](https://github.com/timqian/chart.xkcd) - xkcd styled chart lib
 - [repo-analytics/repo-analytics.github.io](https://github.com/repo-analytics/repo-analytics.github.io) - Thorough analytics for your GitHub repos
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [arlac77/svelte-session-manager](https://github.com/arlac77/svelte-session-manager) - Session store for svelte (currently only for JWT)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [GabrielTenma/lightdm-gab-gradient](https://github.com/GabrielTenma/lightdm-gab-gradient) - LightDM-webkit Theme with modern style.
@@ -748,7 +749,6 @@
 - [clinicjs/node-clinic](https://github.com/clinicjs/node-clinic) - Clinic.js diagnoses your Node.js performance issues
 - [ciembor/4bit](https://github.com/ciembor/4bit) - Terminal Color Scheme Designer
 - [architect/architect](https://github.com/architect/architect) - The simplest, most powerful way to build a functional web app (fwa)
-- [Reckon-Limited/containerless](https://github.com/Reckon-Limited/containerless) - Serverless plugin for configuring ECS deployment
 - [johnagan/serverless-slackbot](https://github.com/johnagan/serverless-slackbot) - A boilerplate Serverless Slackbot framework with a custom scripts folder (like Hubot)
 - [geoip-lite/node-geoip](https://github.com/geoip-lite/node-geoip) - Native NodeJS implementation of MaxMind's GeoIP API -- works in node 0.6.3 and above, ask me about other versions
 - [amazon-archives/aws-mobile-react-native-starter](https://github.com/amazon-archives/aws-mobile-react-native-starter) - AWS Mobile React Native Starter App     https://aws.amazon.com/mobile
@@ -982,7 +982,7 @@
 
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
+- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
 - [counteractive/incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template) - A concise, directive, specific, flexible, and free incident response plan template
 
 ## Markdown 
@@ -1404,7 +1404,7 @@
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [grantshandy/thesaurus-rs](https://github.com/grantshandy/thesaurus-rs) - An offline Rust thesaurus library.
-- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
+- [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - [edigaryev/awesome-system-calls](https://github.com/edigaryev/awesome-system-calls) - A categorized list of system calls used by popular Unix-like operating systems
@@ -1521,7 +1521,7 @@
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust that unifies all your formatters in one tool.
+- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform that unifies all your formatters.
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
@@ -1631,7 +1631,6 @@
 
 ## Shell 
 
-- [metaory/invert-site](https://github.com/metaory/invert-site) - chrome extension that Toggle CSS invert on the current page
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [metaory/forks-hollow](https://github.com/metaory/forks-hollow) - Keep your fork tree layout -  Drop the weight - Restore when you need the code
 - [UtsavMandal2022/zsh-sage](https://github.com/UtsavMandal2022/zsh-sage) - Intelligent zsh autosuggestions with multi-signal ranking and confidence-colored ghost text
@@ -1755,7 +1754,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial) - A tutorial on infinite canvas
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 150+ tools for Image, PDF, Video, Audio, and Files. AI-powered, open source, fully offline. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Self-hosted file toolkit. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, fully offline. Your files stay yours.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [metaory/rent-a-human](https://github.com/metaory/rent-a-human) - Human as a Service. Got skills? Get paid.
@@ -1779,7 +1778,7 @@
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [markmap/markmap](https://github.com/markmap/markmap) - Build mindmaps with plain text
 - [radix-ui/icons](https://github.com/radix-ui/icons) - A crisp set of 15×15 icons designed by the @workos team.
-- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (286 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
+- [nanostores/nanostores](https://github.com/nanostores/nanostores) - A tiny (340 bytes) state manager for React/RN/Preact/Vue/Svelte with many atomic tree-shakable stores
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [browser-actions/setup-chrome](https://github.com/browser-actions/setup-chrome) - Set up your GitHub Actions workflow with a specific version of chromium
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El
