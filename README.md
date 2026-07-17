@@ -92,6 +92,8 @@
 
 ## C 
 
+- [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
+- [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [kilobyte/colorized-logs](https://github.com/kilobyte/colorized-logs) - tools for logs with ANSI color
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
@@ -114,7 +116,7 @@
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command-line terminal file manager
 - [hpjansson/chafa](https://github.com/hpjansson/chafa) - 📺🗿 Terminal graphics for the 21st century.
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [coreutils/coreutils](https://github.com/coreutils/coreutils) - upstream mirror
+- [coreutils/coreutils](https://github.com/coreutils/coreutils) - Public mirror. Pull requests and Issues accepted
 - [CDSoft/luax](https://github.com/CDSoft/luax) - Moved to Codeberg, this repo is just a (temporary) mirror -- luax is a Lua interpreter and REPL based on Lua 5.4, augmented with some useful packages. It is also a "compiler" that produces standalone 
 - [dharple/detox](https://github.com/dharple/detox) - Tames problematic filenames
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
@@ -483,6 +485,8 @@
 
 ## JavaScript 
 
+- [stop-amertime/css-dos](https://github.com/stop-amertime/css-dos) - CSS-DOS: An Intel 8086 PC running DOS — implemented entirely in CSS
+- [jsebrech/view-transition-element](https://github.com/jsebrech/view-transition-element) - Vanilla routing and view transitions example
 - [metaory/invert-site](https://github.com/metaory/invert-site) - chrome extension that Toggle CSS invert on the current page
 - [metaory/code-copy](https://github.com/metaory/code-copy) - Chrome extension - Copy text from code blocks and page elements to the clipboard on click
 - [golanlevin/p5-single-line-font-resources](https://github.com/golanlevin/p5-single-line-font-resources) - An archive of monoline vector fonts, and p5.js code to render them.
@@ -982,7 +986,7 @@
 
 - [score-spec/spec](https://github.com/score-spec/spec) - The Score Specification provides a developer-centric and platform-agnostic Workload specification to improve developer productivity and experience. It eliminates configuration inconsistencies between 
 - [lyz-code/blue-book](https://github.com/lyz-code/blue-book) - My personal knowledge repository
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [counteractive/incident-response-plan-template](https://github.com/counteractive/incident-response-plan-template) - A concise, directive, specific, flexible, and free incident response plan template
 
 ## Markdown 
@@ -1027,6 +1031,7 @@
 
 ## Others 
 
+- [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [GoogleChrome/modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance) - 
 - [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!
@@ -1400,7 +1405,7 @@
 - [qltysh/qlty](https://github.com/qltysh/qlty) - 💎 Code quality CLI for universal linting, auto-formatting, security scanning, and maintainability
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [jonefeewang/stonemq](https://github.com/jonefeewang/stonemq) - A high-performance and efficient message queue developed   in Rust
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [longbridge/gpui-component](https://github.com/longbridge/gpui-component) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [grantshandy/thesaurus-rs](https://github.com/grantshandy/thesaurus-rs) - An offline Rust thesaurus library.
@@ -1411,7 +1416,7 @@
 - [metaory/void](https://github.com/metaory/void) - [FORK] +db.json  --  mindmap TUI
 - [kxxt/tracexec](https://github.com/kxxt/tracexec) - Tracer for execve{,at} and pre-exec behavior, launcher for debuggers.
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3
 - [pinnacle-comp/pinnacle](https://github.com/pinnacle-comp/pinnacle) - A Smithay-based Wayland compositor, inspired by AwesomeWM and configured in Lua or Rust
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB/WebDAV
 - [moonrepo/starbase](https://github.com/moonrepo/starbase) - Framework for building performant command line applications and developer tools.
@@ -1736,6 +1741,7 @@
 
 ## Swift 
 
+- [Santosh7017/AndroidFileSync](https://github.com/Santosh7017/AndroidFileSync) - AndroidFileSync: A free, native macOS app to transfer files between your Mac and Android phone — over USB or WiFi.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 
@@ -1745,6 +1751,9 @@
 
 ## TypeScript 
 
+- [JaceThings/Lisse](https://github.com/JaceThings/Lisse) - 
+- [vpalos/Krbn](https://github.com/vpalos/Krbn) - A web engine for pencil-style rendering of 3D scenes to SVG — exact silhouettes, hidden-line ghosting, hatching. Great for abstract and technical scenes.
+- [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [jdevalk/specification.website](https://github.com/jdevalk/specification.website) - Website specification — HTML, accessibility, security, SEO, agent-readiness. Platform-agnostic, sourced, MIT.
@@ -1754,7 +1763,7 @@
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial) - A tutorial on infinite canvas
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - File processing for privacy-focussed use. 200+ tools for Image, Video, Audio, PDF, and Files. AI-powered, open source, airgap ready. Your files stay yours.
+- [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [kunchenguid/gnhf](https://github.com/kunchenguid/gnhf) - Before I go to bed, I tell my agents: good night, have fun
 - [metaory/rent-a-human](https://github.com/metaory/rent-a-human) - Human as a Service. Got skills? Get paid.
@@ -2026,7 +2035,7 @@
 - [vuejs/core](https://github.com/vuejs/core) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
+- [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
