@@ -203,6 +203,7 @@
 - [pentesting](#pentesting)
 - [php](#php)
 - [physics](#physics)
+- [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -215,6 +216,7 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
+- [qt](#qt)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
 - [rag](#rag)
@@ -266,6 +268,7 @@
 - [ubuntu](#ubuntu)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [userscript](#userscript)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -290,12 +293,13 @@
 
 ## 3d 
 
+- [BabylonJS/Spector.js](https://github.com/BabylonJS/Spector.js) - Explore and Troubleshoot your WebGL scenes with ease.
 - [gfxfundamentals/webgl-fundamentals](https://github.com/gfxfundamentals/webgl-fundamentals) - WebGL lessons that start with the basics
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
 ## agent 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 
@@ -308,7 +312,7 @@
 
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -320,7 +324,8 @@
 
 ## ai 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -339,13 +344,13 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [neomjs/neo](https://github.com/neomjs/neo) - Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-h
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
@@ -645,6 +650,7 @@
 
 ## awesome-list 
 
+- [azzamsa/awesome-lisp-companies](https://github.com/azzamsa/awesome-lisp-companies) - Awesome Lisp Companies
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
@@ -943,6 +949,7 @@
 
 ## c-plus-plus 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [Gargaj/Bonzomatic](https://github.com/Gargaj/Bonzomatic) - Live shader coding tool and Shader Showdown workhorse
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
@@ -969,7 +976,7 @@
 - [Tungtono/awesome-gpt](https://github.com/Tungtono/awesome-gpt) - A curated list of awesome ChatGPT-related applications, software, tools, resources.
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [kazuki-sf/YouTube_Summary_with_ChatGPT](https://github.com/kazuki-sf/YouTube_Summary_with_ChatGPT) - YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -995,6 +1002,7 @@
 
 ## chrome-extension 
 
+- [metaory/chatgpt-userscript](https://github.com/metaory/chatgpt-userscript) - Dark ChatGPT skin with WebGL gradient and Alt shortcuts for chat, sidebar, temp
 - [metaory/invert-site](https://github.com/metaory/invert-site) - chrome extension that Toggle CSS invert on the current page
 - [metaory/code-copy](https://github.com/metaory/code-copy) - Chrome extension - Copy text from code blocks and page elements to the clipboard on click
 - [metaory/live-css-queries](https://github.com/metaory/live-css-queries) - Chrome extension - Evaluates CSS selectors on the active webpage and highlights matching elements in an on-page match panel
@@ -1013,7 +1021,7 @@
 
 ## claude 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -1029,6 +1037,7 @@
 
 ## cli 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [metaory/forks-hollow](https://github.com/metaory/forks-hollow) - Keep your fork tree layout -  Drop the weight - Restore when you need the code
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
@@ -1321,6 +1330,7 @@
 
 ## cpp 
 
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -1446,7 +1456,7 @@
 
 ## database 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [dicedb/dicedb](https://github.com/dicedb/dicedb) - Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
@@ -1607,6 +1617,7 @@
 
 ## distributed-systems 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems) - A curated list to learn about distributed systems
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
@@ -1614,7 +1625,7 @@
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [authzed/spicedb](https://github.com/authzed/spicedb) - Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data
 - [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service.
@@ -1675,7 +1686,7 @@
 - [lunarmodules/ldoc](https://github.com/lunarmodules/ldoc) - LDoc is a LuaDoc-compatible documentation generator which can also process C extension source. Markdown may be optionally used to render comments, as well as integrated readme documentation and pretty
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of learning resources for curious software engineers
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1852,10 +1863,11 @@
 
 ## font 
 
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [gztchan/awesome-design](https://github.com/gztchan/awesome-design) - 🌟 Curated design resources from all over the world.
 - [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites
 - [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code
-- [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
+- [robbrazier/svelte-awesome](https://github.com/robbrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [rsms/inter](https://github.com/rsms/inter) - The Inter font family
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
@@ -2703,6 +2715,7 @@
 
 ## kubernetes 
 
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [pixie-io/pixie](https://github.com/pixie-io/pixie) - Instant Kubernetes-Native Application Observability
 - [loxilb-io/loxilb](https://github.com/loxilb-io/loxilb) - eBPF based cloud-native load-balancer for Kubernetes|Edge|Telco|IoT|XaaS.
@@ -2805,6 +2818,8 @@
 
 ## linux 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
@@ -2845,7 +2860,7 @@
 - [raexera/yoru](https://github.com/raexera/yoru) - A custom Linux environment built on AwesomeWM
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
 - [HynDuf/dotfiles](https://github.com/HynDuf/dotfiles) - Aesthetic Dotfiles for my Arch Linux rabbit hole 🐇
 - [raexera/tokyo](https://github.com/raexera/tokyo) - BSPWM
@@ -3027,6 +3042,8 @@
 
 ## macos 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [Santosh7017/AndroidFileSync](https://github.com/Santosh7017/AndroidFileSync) - AndroidFileSync: A free, native macOS app to transfer files between your Mac and Android phone — over USB or WiFi.
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
@@ -3046,7 +3063,7 @@
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski) - 🌈 Convert videos to high-quality GIFs on your Mac
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -3134,7 +3151,7 @@
 - [sderosiaux/every-single-day-i-tldr](https://github.com/sderosiaux/every-single-day-i-tldr) - A daily digest of the articles or videos I've found interesting, that I want to share with you.
 - [valeriansaliou/vigil](https://github.com/valeriansaliou/vigil) - 🚦 Microservices Status Page. Monitors a distributed infrastructure and sends alerts (Slack, SMS, etc.).
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
-- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - The discovery and governance layer for event-driven systems. Document your domains, services, events and schemas — for your teams and your AI agents.
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
@@ -3449,6 +3466,7 @@
 
 ## nodejs 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [Automattic/harper](https://github.com/Automattic/harper) - Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
@@ -3548,7 +3566,7 @@
 - [metaory/contrast-color-picker](https://github.com/metaory/contrast-color-picker) - [WIP] - web component color picker with WCAG contrast guides - drop-in replacement for input type color
 - [metaory/bit-grid-component](https://github.com/metaory/bit-grid-component) - Framework-agnostic web component for boolean matrices
 - [metaory/iconify-picker](https://github.com/metaory/iconify-picker) - Zero-dependency icon picker with built-in UI modes and native events
-- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders coming]
+- [metaory/gradient-gl](https://github.com/metaory/gradient-gl) - Tiny WebGL library for Deterministic seed-driven Procedural Gradient Animations  [breaking v2 shaders]
 - [metaory/shadertoy2webgl](https://github.com/metaory/shadertoy2webgl) - CLI and library to convert ShaderToy shaders to standalone WebGL2 applications with uniform handling and zero dependencies
 - [metaory/noseyparker-compact](https://github.com/metaory/noseyparker-compact) - CLI tool to transform verbose noseyparker JSON reports into concise JSON or CSV summaries for security analysis
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
@@ -3581,7 +3599,8 @@
 
 ## open-source 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your 
@@ -3621,7 +3640,7 @@
 
 ## openai 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [korchasa/awesome-chatgpt](https://github.com/korchasa/awesome-chatgpt) - A curated list of awesome ChatGPT software.
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [voideditor/void](https://github.com/voideditor/void) - 
@@ -3634,7 +3653,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [openai/openai-node](https://github.com/openai/openai-node) - Official JavaScript / TypeScript library for the OpenAI API
 - [kazuki-sf/ChatGPT_Extension](https://github.com/kazuki-sf/ChatGPT_Extension) - ChatGPT Extension is a really simple Chrome Extension (manifest v3) that you can access OpenAI's ChatGPT from anywhere on the web.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -3661,14 +3680,17 @@
 
 ## others 
 
+- [MAz-Codes/Fragmenta](https://github.com/MAz-Codes/Fragmenta) - A desktop app to fine-tune, generate and perform live music with diffusion models. Runs on MacOS, Windows and Linux.
+- [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) - A batteries-included framework for building web apps
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.
 - [JaceThings/Lisse](https://github.com/JaceThings/Lisse) - 
 - [stop-amertime/css-dos](https://github.com/stop-amertime/css-dos) - CSS-DOS: An Intel 8086 PC running DOS — implemented entirely in CSS
 - [jsebrech/view-transition-element](https://github.com/jsebrech/view-transition-element) - Vanilla routing and view transitions example
 - [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. https://killaislop.com
 - [lua/lua](https://github.com/lua/lua) - A copy of the Lua development repository, as seen by the Lua team. Mirrored irregularly. All communication should be through the Lua mailing list https://www.lua.org/lua-l.html
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
-- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for ultra-low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [YusufB5/ASCILINE](https://github.com/YusufB5/ASCILINE) - A high-performance, real-time ASCII video rendering engine. Streams binary-encoded frames via WebSockets for low latency, 30 FPS playback using HTML5 Canvas and requestAnimationFrame.
 - [RsyncProject/rsync](https://github.com/RsyncProject/rsync) - An open source utility that provides fast incremental file transfer. It also has useful features for backup and restore operations among many other use cases.
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [matthart1983/syswatch](https://github.com/matthart1983/syswatch) - Single-host system diagnostics TUI. Sibling to netwatch. Twelve tabs, plain-English insights, session scrubber. macOS + Linux.
@@ -4260,6 +4282,10 @@
 - [lo-th/phy](https://github.com/lo-th/phy) - Physics for three. Game engine
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 
+## pixel-art 
+
+- [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
+
 ## postgresql 
 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -4297,6 +4323,7 @@
 
 ## productivity 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [metaory/live-css-queries](https://github.com/metaory/live-css-queries) - Chrome extension - Evaluates CSS selectors on the active webpage and highlights matching elements in an on-page match panel
 - [metaory/smart-tab-groups](https://github.com/metaory/smart-tab-groups) - Yet Another Chrome extension: auto-group tabs by domain or subdomain.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -4331,6 +4358,7 @@
 
 ## programming-language 
 
+- [wado-lang/wado](https://github.com/wado-lang/wado) - The Wado Programming Language
 - [sharkdp/numbat](https://github.com/sharkdp/numbat) - A statically typed programming language for scientific computations with first class support for physical dimensions and units
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
 - [ChessMax/awesome-programming-languages](https://github.com/ChessMax/awesome-programming-languages) - The list of awesome programming languages that you might be interested in.
@@ -4374,14 +4402,14 @@
 
 ## python 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
 - [melvinquick/psswd_box](https://github.com/melvinquick/psswd_box) - Password generator that never leaves your machine.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [aaronjanse/asciidots](https://github.com/aaronjanse/asciidots) - Esolang inspired by ASCII art
 - [hukkin/mdformat](https://github.com/hukkin/mdformat) - CommonMark compliant Markdown formatter
@@ -4442,6 +4470,10 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools
 - [jolibrain/deepdetect](https://github.com/jolibrain/deepdetect) - Deep Learning Server and CLI for Torch and TensorRT
 
+## qt 
+
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
+
 ## quantitative-finance 
 
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -4453,7 +4485,7 @@
 
 ## rag 
 
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [neomjs/neo](https://github.com/neomjs/neo) - Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-h
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
@@ -4474,6 +4506,8 @@
 
 ## react 
 
+- [Telegram-Mini-Apps/reactjs-template](https://github.com/Telegram-Mini-Apps/reactjs-template) - Telegram Mini Apps application template using React, tma.js, TypeScript and Vite.
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 - [ShadOoW/web-starter-kit](https://github.com/ShadOoW/web-starter-kit) - An opinionated starter kit with styled-system, graphql-hooks, mobx and nextjs (PWA)
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
@@ -4645,6 +4679,7 @@
 
 ## rust 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
 - [h4ckf0r0day/obscura](https://github.com/h4ckf0r0day/obscura) - The headless browser for AI agents and web scraping
@@ -4764,7 +4799,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [Exafunction/windsurf.vim](https://github.com/Exafunction/windsurf.vim) - Free, ultrafast Copilot alternative for Vim and Neovim
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [oppiliappan/dijo](https://github.com/oppiliappan/dijo) - scriptable, curses-based, digital habit tracker
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
@@ -4982,7 +5017,7 @@
 
 ## sql 
 
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
 - [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
 - [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
@@ -5013,7 +5048,7 @@
 
 ## stable-diffusion 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
@@ -5050,7 +5085,7 @@
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
 - [rocketlaunchr/awesome-svelte](https://github.com/rocketlaunchr/awesome-svelte) - Awesome Svelte: Useful resources for developing Svelte applications
 - [specialdoom/proi-ui](https://github.com/specialdoom/proi-ui) - yet another Svelte ui library
-- [RobBrazier/svelte-awesome](https://github.com/RobBrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
+- [robbrazier/svelte-awesome](https://github.com/robbrazier/svelte-awesome) - Awesome SVG icon component for Svelte JS, built with Font Awesome icons. Based on Justineo/vue-awesome
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [ballerine-io/ballerine](https://github.com/ballerine-io/ballerine) - Open-source infrastructure and data orchestration platform for risk decisioning
@@ -5225,11 +5260,12 @@
 
 ## text-to-speech 
 
-- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 
 ## tui 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [msmps/awesome-opentui](https://github.com/msmps/awesome-opentui) - A curated list of awesome opentui resources
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [ifd3f/caligula](https://github.com/ifd3f/caligula) - A user-friendly, lightweight TUI for disk imaging
@@ -5272,6 +5308,7 @@
 
 ## typescript 
 
+- [Telegram-Mini-Apps/reactjs-template](https://github.com/Telegram-Mini-Apps/reactjs-template) - Telegram Mini Apps application template using React, tma.js, TypeScript and Vite.
 - [vpalos/Krbn](https://github.com/vpalos/Krbn) - A web engine for pencil-style rendering of 3D scenes to SVG — exact silhouettes, hidden-line ghosting, hatching. Great for abstract and technical scenes.
 - [theMackabu/ant](https://github.com/theMackabu/ant) - javascript for 🐜's, a tiny runtime with big ambitions
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
@@ -5407,6 +5444,10 @@
 - [saimoomedits/dotfiles](https://github.com/saimoomedits/dotfiles) - The ArchLinux and AwesomeWM configs. 📂
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
+## userscript 
+
+- [metaory/chatgpt-userscript](https://github.com/metaory/chatgpt-userscript) - Dark ChatGPT skin with WebGL gradient and Alt shortcuts for chat, sidebar, temp
 
 ## video 
 
@@ -5617,6 +5658,7 @@
 
 ## windows 
 
+- [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
 - [electron/forge](https://github.com/electron/forge) - :electron: A complete tool for building and publishing Electron applications
@@ -5628,7 +5670,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
-- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - ❄️ ChatGPT Desktop Application (Mac, Windows and Linux)
 - [libuv/libuv](https://github.com/libuv/libuv) - Cross-platform asynchronous I/O
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
@@ -5646,6 +5688,7 @@
 
 ## workflow 
 
+- [dduongtrandai/LA-Studio](https://github.com/dduongtrandai/LA-Studio) - LA Studio is a local-first AI audio platform for exploring, downloading, and testing speech-to-text, text-to-speech, and voice cloning models
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
 - [statelyai/xstate](https://github.com/statelyai/xstate) - State machines, statecharts, and actors for complex logic
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
