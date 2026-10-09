@@ -344,7 +344,7 @@
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [kernel/kernel-images](https://github.com/kernel/kernel-images) - Browsers-as-a-service for automations and web agents
 - [aandrew-me/tgpt](https://github.com/aandrew-me/tgpt) - AI Chatbots in terminal for free
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [instancez/instancez](https://github.com/instancez/instancez) - An LLM-friendly, single-binary, drop-in replacement to Supabase
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -363,6 +363,7 @@
 - [wdhdev/free-for-life](https://github.com/wdhdev/free-for-life) - A huge list of great stuff you can get for free!
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [google-research/google-research](https://github.com/google-research/google-research) - Google Research
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin) - an ambient intelligence library
@@ -397,7 +398,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [paterschris/lathe](https://github.com/paterschris/lathe) - A Zed fork with a git explorer and a graph you can check out, rebase, squash, and reset from (with undo), a merge conflict tab, in-editor PR review, peek-style Go to Definition, a live theme customize
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [andyrewlee/awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators) - List of agent orchestrators
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of Artificial Intelligence Top Tools
@@ -1402,7 +1403,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 
 ## cryptography 
 
@@ -2027,6 +2028,7 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) - A curated list of modern Generative Artificial Intelligence projects and services
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 
@@ -2355,7 +2357,6 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
-- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso) - The most powerful virtual list component for React
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning) - A bunch of links to blog posts, articles, videos, etc for learning Rust
@@ -2994,7 +2995,7 @@
 
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [instancez/instancez](https://github.com/instancez/instancez) - An LLM-friendly, single-binary, drop-in replacement to Supabase
 - [alexferrari88/prompt-scanner](https://github.com/alexferrari88/prompt-scanner) - Find buried AI prompts in any codebase. Instantly⚡
 - [BoundaryML/baml](https://github.com/BoundaryML/baml) - The programming language for agents
@@ -3184,9 +3185,9 @@
 
 ## markdown 
 
-- [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
+- [shadcn-labs/mdxcn](https://github.com/shadcn-labs/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
 - [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 Supercharge your AI agents with data from the web and beyond. A web data API to search, scrape, and access more sources.
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
 - [boolean-maybe/tiki](https://github.com/boolean-maybe/tiki) - Terminal Markdown-based shapeless workflow builder
 - [metaory/markon](https://github.com/metaory/markon) - Minimal distraction-free live Markdown editor
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -3379,7 +3380,7 @@
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) - A neovim plugin that lets you easily create Telescope pickers from arbitrary console commands
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) - Neovim API utility wrapper for more convenience with Lua keymaps, highlights, autocommands and options.
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
@@ -3565,7 +3566,7 @@
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The full-stack Vue framework.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
 - [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -3717,7 +3718,7 @@
 
 ## open-source 
 
-- [keshav-exe/mdxcn](https://github.com/keshav-exe/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
+- [shadcn-labs/mdxcn](https://github.com/shadcn-labs/mdxcn) - mdxcn is a free, open-source set of callouts, steps, terminals, charts, and timelines for mdx. copy any component with the shadcn cli.
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
 - [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive) - Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome!
@@ -3860,6 +3861,7 @@
 - [clach04/tinted-theming_markon](https://github.com/clach04/tinted-theming_markon) - Experimental https://github.com/metaory/markon theme/scheme generator
 - [metaory/flexipayroll](https://github.com/metaory/flexipayroll) - A lightweight, browser-based payroll management system for SMEs
 - [metaory/color-input-debounce-demo](https://github.com/metaory/color-input-debounce-demo) - Interactive demonstration comparing color input performance with and without debounce
+- [melvinquick/psswd_box](https://github.com/melvinquick/psswd_box) - Password generator that never leaves your machine.
 - [mundimark/awesome-markdown-editors](https://github.com/mundimark/awesome-markdown-editors) - A collection of awesome markdown editors & (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web & more
 - [metaory/ascii-lab](https://github.com/metaory/ascii-lab) - experimental ASCII art effects
 - [shellphish/how2heap](https://github.com/shellphish/how2heap) - A repository for learning various heap exploitation techniques.
@@ -4161,7 +4163,7 @@
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [brson/rust-anthology](https://github.com/brson/rust-anthology) - Learn Rust from the best
-- [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust
+- [brson/my-rust-lists](https://github.com/brson/my-rust-lists) - Lightly organized personal notes about Rust.
 - [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
 - [graydon/stxt](https://github.com/graydon/stxt) - sketch of a secure async group communication system
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) - Learn Rust with examples (Live code editor included)
@@ -4550,7 +4552,6 @@
 - [sepandhaghighi/art](https://github.com/sepandhaghighi/art) - 🎨 ASCII art library for Python
 - [iii-hq/iii](https://github.com/iii-hq/iii) - Effortlessly compose, extend, and observe every service in real-time for the first time ever.
 - [sahib/rmlint](https://github.com/sahib/rmlint) - Extremely fast tool to remove duplicates and other lint from your filesystem
-- [melvinquick/psswd_box](https://github.com/melvinquick/psswd_box) - Password generator that never leaves your machine.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, or REST/gRPC APIs, exposing a unified endpoint with centralized discovery, guardrails and management. Optimizes Agent & Tool call
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
@@ -5092,7 +5093,7 @@
 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [valeriansaliou/sonic](https://github.com/valeriansaliou/sonic) - 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 
@@ -5673,7 +5674,7 @@
 - [ziglang/zig.vim](https://github.com/ziglang/zig.vim) - Vim configuration for Zig
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [purhan/dotfiles](https://github.com/purhan/dotfiles) - 
